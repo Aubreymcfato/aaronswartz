@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b81db675-dbbd-470a-b339-cf971c4674a1</dc:identifier>
+        <dc:title>AARON SWARTZ: una vita per la cultura libera e la giustizia sociale</dc:title>
+        <dc:creator opf:role="aut">B.Parrella, A. Zanni</dc:creator>
+        <dc:language>it_IT</dc:language>
+        <dc:date opf:event="pubblicazione">2014-11-02</dc:date>
+        <dc:rights>Creative Commons by-nc-sa 3.0</dc:rights>
+        <meta content="0.6.2" name="Sigil version"/>
+        <dc:date opf:event="modification">2014-02-08</dc:date>
+    </metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="Text/copertina2.html" id="copertina2.html" media-type="application/xhtml+xml"/>
+        <item href="Images/2OOaswartz_ital_img_0.jpg" id="x2OOaswartz_ital_img_0.jpg" media-type="image/jpeg"/>
+        <item href="Images/2OOaswartz_ital_img_1.jpg" id="x2OOaswartz_ital_img_1.jpg" media-type="image/jpeg"/>
+        <item href="Images/2OOaswartz_ital_img_2.jpg" id="x2OOaswartz_ital_img_2.jpg" media-type="image/jpeg"/>
+        <item href="Images/2OOaswartz_ital_img_3.jpg" id="x2OOaswartz_ital_img_3.jpg" media-type="image/jpeg"/>
+        <item href="Images/2OOaswartz_ital_img_4.jpg" id="x2OOaswartz_ital_img_4.jpg" media-type="image/jpeg"/>
+        <item href="Images/2OOaswartz_ital_img_5.jpg" id="x2OOaswartz_ital_img_5.jpg" media-type="image/jpeg"/>
+        <item href="Text/frontespizio.html" id="frontespizio.html" media-type="application/xhtml+xml"/>
+        <item href="Text/copertina.html" id="copertina.html" media-type="application/xhtml+xml"/>
+        <item href="Text/prefazione.html" id="prefazione.html" media-type="application/xhtml+xml"/>
+        <item href="Text/unannodopo.html" id="unannodopo.html" media-type="application/xhtml+xml"/>
+        <item href="Text/parteprima.html" id="parteprima.html" media-type="application/xhtml+xml"/>
+        <item href="Text/parteseconda.html" id="parteseconda.html" media-type="application/xhtml+xml"/>
+        <item href="Text/parteterza.html" id="parteterza.html" media-type="application/xhtml+xml"/>
+        <item href="Text/postfazione.html" id="postfazione.html" media-type="application/xhtml+xml"/>
+        <item href="Text/risorse.html" id="risorse.html" media-type="application/xhtml+xml"/>
+        <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="copertina.html"/>
+        <itemref idref="TOC.xhtml"/>
+        <itemref idref="frontespizio.html"/>
+        <itemref idref="prefazione.html"/>
+        <itemref idref="unannodopo.html"/>
+        <itemref idref="parteprima.html"/>
+        <itemref idref="parteseconda.html"/>
+        <itemref idref="parteterza.html"/>
+        <itemref idref="postfazione.html"/>
+        <itemref idref="risorse.html"/>
+        <itemref idref="copertina2.html"/>
+    </spine>
+    <guide>
+        <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    </guide>
+</package>
