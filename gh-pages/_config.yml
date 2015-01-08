@@ -1,0 +1,12 @@
+# Site settings
+title: Aaron Swartz Tributo
+email: and
+description: Esempio pippo
+baseurl: ""
+url: "http://aaronswartztributo.tumblr.com/"
+
+# Build settings
+markdown: kramdown
+
+# Handling Reading
+markdown_ext: "md"
