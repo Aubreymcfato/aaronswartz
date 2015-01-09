@@ -1,9 +1,7 @@
-**UN ANNO DOPO
-**
+**UN ANNO DOPO**
 
 #### *Persone che lasciano il segno: Aaron Swartz (1986-2013)
-*
- Articolo originale di Lawrence Lessig pubblicato su Politico.com il 22/12/2013: [Why They Mattered: Aaron Swartz (1986-2013)](http://www.politico.com/magazine/story/2013/12/aaron-swartz-obituary-101418.html). Traduzione di Bernardo Parrella.
+*Articolo originale di Lawrence Lessig pubblicato su Politico.com il 22/12/2013: [Why They Mattered: Aaron Swartz (1986-2013)](http://www.politico.com/magazine/story/2013/12/aaron-swartz-obituary-101418.html). Traduzione di Bernardo Parrella.*
 
 A gennaio abbiamo perso Aaron Swartz, suicidatosi a 26 anni. O meglio, vista l’ampia portata e il profondo spessore del suo impegno: a gennaio *tutti noi abbiamo perso Aaron Swartz.*
 
@@ -31,7 +29,4 @@ Forse è così, ma rimango scettico. Aaron dimostrava una dose infinita di buon 
 
 Forse quelli tra noi che sono stati i suoi mentori avrebbero dovuto spiegargli meglio che queste istituzioni valgono meno di quanto egli credesse. O magari dovremmo impegnarci nel renderle migliori di quello che lui pensava fossero già.
 
-*Lawrence Lessig insegna giurisprudenza e leadership presso la Harvard Law School.
-*
-
-* * * * *
+*Lawrence Lessig insegna giurisprudenza e leadership presso la Harvard Law School.*
