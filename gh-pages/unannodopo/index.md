@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Un anno dopo
+previous: /prefazione/
+next: /parteprima/
 ---
 
 ### UN ANNO DOPO

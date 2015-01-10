@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Parte terza
+previous: /parteseconda/
+next: /postfazione/
 ---
 
 ### PARTE TERZA

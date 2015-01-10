@@ -202,3 +202,26 @@ pre {
         }
     }
 }
+
+
+
+/**
+ * Nav
+ */
+.prev {
+    font-size: 300%;
+    font-weight: 300;
+    color: $text-color;
+    display:inline-block;
+    float: left;
+    margin: 10px;
+}
+
+.next {
+    font-size: 300%;
+    font-weight: 300;
+    color: $text-color;
+    display:inline-block;
+    float: right;
+    margin: 10px;
+}
