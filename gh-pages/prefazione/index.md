@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Prefazione
-permalink: /prefazione/
 ---
 * * * * *
 
