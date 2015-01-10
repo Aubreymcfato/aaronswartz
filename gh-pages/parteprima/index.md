@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Parte prima
-previous: /unannodopo/
-next: /parteseconda/
+previous: unannodopo/
+next: parteseconda/
 ---
 
 ### PARTE PRIMA

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Frontespizio
-previous: /
-next: /prefazione/
+previous:
+next: prefazione/
 ---
 * * * * *
 

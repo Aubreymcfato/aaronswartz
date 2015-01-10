@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Parte terza
-previous: /parteprima/
-next: /parteterza/
+previous: parteprima/
+next: parteterza/
 ---
 
 ### PARTE SECONDA

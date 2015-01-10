@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Prefazione
-previous: /frontespizio/
-next: /unannodopo/
+previous: frontespizio/
+next: unannodopo/
 ---
 * * * * *
 

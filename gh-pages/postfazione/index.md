@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Postfazione
-previous: /parteterza/
-next: /risorse/
+previous: parteterza/
+next: risorse/
 ---
 
 * * * * *
