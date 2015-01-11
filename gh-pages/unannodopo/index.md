@@ -122,16 +122,16 @@ Molti di noi continueranno a chiedersi se avessero potuto fare qualcosa di più
 per salvare Aaron. È questa la crudele conseguenza di ogni suicidio. L’autore
 di un rapporto sul comportamento del MIT durante il [caso
 giudiziario](http://www.technologyreview.com/view/519866/the-lessons-of-aaron-
-swartz/) lamentava che quanti tra noi “avevano agito da mentori per Swartz,
-aiutandolo a raggiungere… la genialità” non erano però riusciti a
+swartz/) lamentava che quanti tra noi “avevano agito da mentori per Swartz,
+aiutandolo a raggiungere … la genialità” non erano però riusciti a
 trasmettergli la “seykhel — bellissimo termine Yiddish per indicare la
 combinazione tra intelligenza e buon senso”.
 
 Forse è così, ma rimango scettico. Aaron dimostrava una dose infinita di buon
-senso. Ma aveva anche un’urgente impulso verso la giustizia sociale. Il suo
+senso. Ma aveva anche un urgente impulso verso la giustizia sociale. Il suo
 errore è stato quello di credere che il nostro sistema giudiziario avrebbe
 dimostrato sufficiente saggezza da riconoscere questo suo aspetto, e
-accordargli il perdono. Oppure che il MIT— dove aveva lavorato il padre e dove
+accordargli il perdono. Oppure che il MIT — dove aveva lavorato il padre e dove
 studiava il fratello, e con il quale aveva collaborato più volte — avrebbe
 esteso a quell’atto di hacking etico lo stesso atteggiamento tollerante già
 [applicato](http://www.amazon.com/dp/0262515849/ref=rdr_ext_tmb) tante volte
