@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Risorse
-previous: /postfazione/
+previous: postfazione/
 next:
 ---
 

@@ -1,0 +1,54 @@
+#  Publication Information
+title: "Aaron Swartz: una vita per la cultura libera e la giustizia sociale"
+author: "Bernardo Parrella e Andrea Zanni"
+date: "gennaio 2013 (v. 1.0)"
+
+# EPUB options
+epub-filename: aaronswartz.epub
+epub-cover-image: ./aaron.jpg
+epub-metadata: ./metadata.xml
+epub-stylesheet: ./main.css
+epub-dir: /home/cristian/Extra/aaronsw/aaronswartz-dev/gen
+
+# Header items
+header-items:
+- title
+- author
+- author-note
+- citation
+
+# Body Content
+content-dir: ../gh-pages/
+contents:
+  # Frontespizio
+  - section-title: Frontespizio
+    files:
+    - frontespizio/index.md
+  # Prefazione
+  - section-title: Prefazione
+    files:
+    - prefazione/index.md
+  # Un anno dopo
+  - section-title: Un anno dopo
+    files:
+    - unannodopo/index.md
+  # Parte prima
+  - section-title: Parte prima
+    files:
+    - parteprima/index.md
+  # Parte seconda
+  - section-title: Parte seconda
+    files:
+    - parteseconda/index.md
+  # Parte terza
+  - section-title: Parte terza
+    files:
+    - parteterza/index.md
+  # Postfazione
+  - section-title: Postfazione
+    files:
+    - postfazione/index.md
+  # Risorse
+  - section-title: Risorse
+    files:
+    - risorse/index.md

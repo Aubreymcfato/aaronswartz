@@ -18,7 +18,7 @@ next: unannodopo/
 >
 > – A. S.
 
-![](../Images/2OOaswartz_ital_img_1.jpg)
+![Graffito riportante la scritta "RIP Aaron Swartz" dell'artist BAMN, a Brooklyn](../Images/2OOaswartz_ital_img_1.jpg)
 
 * * * * *
 

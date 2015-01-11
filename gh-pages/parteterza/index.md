@@ -12,7 +12,7 @@ next: postfazione/
 Documenti e materiali utili per saperne di più su questi temi centrali per
 l’impegno di Aaron (e di tutti noi)
 
-![](../Images/2OOaswartz_ital_img_4.jpg)
+![Aaron Swartz in piedi che parla al microfono durante una protesta contro il SOPA.](../Images/2OOaswartz_ital_img_4.jpg)
 
 * * * * *
 
@@ -210,7 +210,7 @@ simile: ecco un adattamento del suo lavoro per l’uso degli studiosi italiani.
     studiosi più giovani che fanno ricerca su Google prima che in biblioteca.
     E se volete contribuire a cambiare il sistema per le generazioni future,
     non eludete le regole mettendo on-line testi ad accesso chiuso di cui
-    avete [ceduto i diritti.](#LinkTarget_588)
+    avete [ceduto i diritti.](http://btfp.sp.unipi.it/?p=1479#diritti)
 2.  Associazioni disciplinari: aiutate le riviste ad accesso aperto a
     guadagnare attrattiva. Incoraggiate i vostri membri a pubblicare su
     riviste ad accesso aperto; bandite dei premi per i migliori articoli ad
