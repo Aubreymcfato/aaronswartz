@@ -1,0 +1,12 @@
+# Site settings
+title: Aaron Swartz Tributo
+email: and
+description: E-book con selezioni di scritti di (e su) Aaron Swartz e la sua vita.
+baseurl: "https://cristiancantoro.github.io/aaronswartz"
+url: "http://aaronswartztributo.tumblr.com/"
+
+# Build settings
+markdown: kramdown
+
+# Handling Reading
+markdown_ext: "md"
