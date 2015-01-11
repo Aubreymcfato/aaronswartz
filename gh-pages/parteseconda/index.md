@@ -40,7 +40,7 @@ hanno avuto modo di conoscerlo – a quella di un “hacker” non è che una co
 menzogna.
 
 [Come ben chiarisce Alex Stamox](http://unhandled.com/2013/01/12/the-truth-about-aaron-swartzs-crime/),
-non esistevano barriere tecnologiche , legali o contrattuali per impedire ad
+non esistevano barriere tecnologiche , legali o contrattuali per impedire ad
 Aaron di scaricare tutti gli articoli che volesse da JSTOR, al di là
 dell'intrusione abusiva, ma anche questo è un fatto discutibile
 (lo sgabuzzino del MIT che avrebbe forzato per avere un miglior accesso alla
@@ -80,7 +80,7 @@ Aaron ha creato l'architettura iniziale di CreativeCommons.org mettendo a
 punto una licenza che rimuove gli attriti nel riutilizzo di materiale protetto
 dal diritto d'autore [[fonte](http://creativecommons.org/weblog/entry/36298)].
 
-Aaron ha ideato l'architettura iniziale della Open Library, un sistemadi
+Aaron ha ideato l'architettura iniziale della Open Library, un sistema di
 catalogazione libraria aperto al mondo
 [[fonte](http://blog.archive.org/2013/01/12/aaron-swartz-hero-of-the-open-world-rip/)].
 
@@ -101,7 +101,7 @@ Aaron ha creato Infogami, software che ha reso facile per gli utenti finali
 creare siti web centrati sulla collaborazione e l'auto-espressione (poi
 acquistato da Reddit).
 
-Aaron ha scritto [web.py](http://webpy.org/), da lui descritto come un
+Aaron ha scritto [web.py](http://webpy.org/), da lui descritto come un
 «software libero di applicazioni web per Python. Facilita lo sviluppo di
 applicazioni web in Python gestendo in automatico molti dei passaggi relativi
 al web. Reddit, per esempio, è stato costruito così». (In questa intervista
@@ -117,7 +117,7 @@ taglio pionieristico.
 Le testate mainstream sanno che il loro pubblico di non addetti ai lavori
 interpreterà il termine "hacker" nel suo significato negativo e distruttivo.
 Dobbiamo impegnarci affinché ciò non accada, non solo per il bene della memoria
-di Aaron ma per far sì che il suo impegno venga celebrato, incoraggiato e
+di Aaron, ma per far sì che il suo impegno venga celebrato, incoraggiato e
 portato avanti.
 `
 \*\*\*
@@ -126,7 +126,7 @@ portato avanti.
 
 Testo originale: [Processing the loss of Aaron
 Swartz](http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-
-swartz.html)*, **dal blog di danah boyd*, 13/01/2013. Traduzione di Cristian
+swartz.html)*, **dal blog di danah boyd*, 13/01/2013. Traduzione di Cristian
 Consonni.
 
 Le ultime 24 ore sono state delle montagne russe a livello emotivo.
@@ -186,7 +186,7 @@ guardare – non è stato trattato come qualcuno che poteva avere fatto o meno
 qualcosa di stupido. Era diventato un esempio. E il motivo per cui volevano
 dargli una lezione non era perché volevano che la imparasse, bensì perché ne
 avevano fatto una questione di principio, per dimostrare alla comunità hacker
-di Cambridge che li tenevano in pugno [p0wned]. Era una minaccia che non aveva
+di Cambridge che li tenevano in pugno. Era una minaccia che non aveva
 nulla a che fare con la giustizia e tutto a che fare con la lotta per il
 potere all'interno del sistema. Negli ultimi anni, gli hacker hanno sfidato lo
 status quo e messo in discussione la legittimità di decine di decisioni
@@ -229,7 +229,7 @@ nazionale. È legata al potere. Ed è questa, all'osso, la ragione per cui
 l'amministrazione Obama per me è stata una cocente delusione. Nell'ultimo paio
 d'anni ho discusso un numero ridicolo di volte con gente del governo su come
 vengono trattati i geek e sulla loro incapacità di comprendere le motivazioni
-le ragioni degli hacker, eppure non sono mai riuscita a capire come avrei
+degli hacker, eppure non sono mai riuscita a capire come avrei
 potuto cambiare le cose in tal senso. Questa cosa mi ha sempre causato una
 grossa frustrazione, anche in quegli episodi, come la proteste contro il
 SOPA/PIPA, in cui i geek hanno dimostrato di potersi imporre.
@@ -239,7 +239,7 @@ dimettere in mutande chiunque lo conoscesse. È diventato un giocattolo nello
 spettacolo inscenato dal governo per dimostrare di essere potente. Lo hanno
 perseguitato e intimidito, hanno giocato sulle sue debolezze per spezzarlo. E
 ce l'hanno fatta. Tutto in nome della giustizia. Tutto ciò senza che fosse
-nemmeno sottoposto a processo in una società che si fa orgogliodell'innocente
+nemmeno sottoposto a processo in una società che si fa orgoglio dell'innocente
 fino a prova contraria. È stata forse la depressione un fattore chiave di
 quanto successo venerdì? Sicuramente. Ma non è tutta qui la storia. Ed è
 questo che me la fa diventare difficile da digerire.
