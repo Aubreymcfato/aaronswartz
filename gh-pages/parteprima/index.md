@@ -27,9 +27,9 @@ Traduzione di Bernardo Parrella.
 
 
 Le persone ambiziose vogliono lasciare un'eredità ai posteri, ma di che tipo di
-lascito si tratta? Il criterio tradizionale è misurato dagli effetti delle
-nostre azioni. È così che gli avvocati più importanti diventano i giudici della
-Corte Suprema, poiché le loro decisioni hanno effetti sull'intera nazione.
+lascito si tratta? Il criterio tradizionale è misurato dagli effetti delle nostre azioni. 
+È così che gli avvocati più importanti diventano i giudici della Corte Suprema, 
+poiché le loro decisioni hanno effetti sull'intera nazione.
 E i matematici più affermati sono quelli che fanno scoperte significative,
 le quali finiscono per essere usate dalle moltitudini successive.
 
@@ -37,7 +37,7 @@ Un quadro piuttosto ragionevole. L'eredità di una persona dipende dall'impatto
 che produce, e il modo migliore per misurarlo è considerare gli effetti delle
 sue azioni. Ma fare ciò significa spesso misurarle con il metro sbagliato.
 L'ottica giusta non è quella di osservare gli effetti del proprio impegno,
-bensì quella di immaginare come sarebbero le cose non se non si fosse agito.
+bensì quella di immaginare come sarebbero le cose se non si fosse agito.
 
 Si tratta di due prospettive ben diverse tra loro. È normale accettare il fatto
 che certe idee siano mature per la loro epoca, e la storia tende a confermarlo.
@@ -50,7 +50,7 @@ Antonio Meucci].
 In questi esempi i fatti sono palesi: qualora Newton, Darwin e Bell non avessero
 fatto quelle scoperte, il risultato sarebbe stato sostanzialmente lo stesso —
 avremmo comunque l'algebra, l'evoluzione delle specie e il telefono.  Eppure
-costoro vengono salutati come eroi importanti e il loro lascito è immortale.
+costoro vengono salutati come eroi importanti, e il loro lascito è immortale.
 
 Se dovesse interessarci soltanto l'aspetto dell'adulazione per quantificare
 l'impatto di un eredità, non sarebbe forse sufficiente. (Pur trattandosi di un
@@ -62,26 +62,25 @@ riflessione più attenta.
 
 Tempo fa incontrai un noto accademico, il quale aveva pubblicato svariati
 testi ampiamente riconosciuti come classici perfino al di fuori della sua
-disciplina, e mi offrì alcuni consigli per fare carriera in campo scientifico.
-Ora mi è chiaro che ciò che mi disse vale per due persone, a conferma che
-trattasi di un fenomeno di più ampia portata. Attualmente l'ambito x è assai
+disciplina. Egli mi offrì alcuni consigli per fare carriera in campo scientifico.
+Ora mi è chiaro che ciò che mi disse vale per due persone, a conferma che si
+tratta di un fenomeno di più ampia portata. Attualmente l'ambito x è assai
 “caldo”, mi disse, potresti davvero farti un nome dandoti da fare in quel
 campo. L'idea di fondo era che presto ne sarebbero nate scoperte importanti e,
 qualora mi fossi buttato in quel settore, avrei potuto essere io a farle.
 
-Secondo il mio metro personale, ne conseguirebbe un'eredità assai scadente.
+Secondo il mio metro di giudizio personale, ne conseguirebbe un'eredità assai scadente.
 Per quel che possa valere, non credo che nessuno di questi esempi possa
 rientrare in questa categoria; ovvero, la reputazione di chi persegue questa
-via è comunque meritata e valutata anche in base a questi parametri. Ancor
+via è comunque valutata anche in base a questi parametri. Ancor
 peggio, se consideriamo come sono andate le cose fin ora: si presume che
 Darwin e Newton non abbiano avviato le loro indagini perché ritenevano che
 quel campo fosse “caldo”. Mettendo in pratica le loro idee, ritennero di
-produrre un impatto significativo, pur se ciò non si fosse rivelato corretto.
+produrre un impatto significativo, pur se ciò non si fosse poi rivelato corretto.
 Ma se qualcuno decide di entrare in un certo campo scientifico semplicemente
 perché ritiene che presto ne scaturirà una scoperta importante, non potrà mai
 sperimentare una simile delusione. Al contrario, sarà cosciente del fatto che
-il suo lavoro produrrà scarso impatto, e dovrà operare in base a
-quest'impressione.
+il suo lavoro produrrà scarso impatto, e dovrà operare in base a quest'impressione.
 
 Lo stesso vale per altre professioni che erroneamente riteniamo importanti.
 Prendiamo per esempio i giudici della Corte Suprema. Tradizionalmente lo si
@@ -181,7 +180,7 @@ anch'io.](https://it.wikipedia.org/wiki/RSS)
 
 Era estate, avevo finito la scuola e non avevo un lavoro, quindi non mi
 mancava di certo il tempo libero. Così lo spesi tutto nella lettura ossessiva
-della mailing list relativa a RSS 1.0, e facendo ogni tipo di strano lavoretto
+della mailing list relativa a RSS 1.0, e contribuendo con ogni tipo di strano lavoretto
 o qualsiasi altra cosa ci fosse bisogno di fare. In breve, mi chiesero se
 volevo entrare formalmente nel gruppo di lavoro e alla fine diventai co-autore
 e successivamente co-gestore della specifica RSS 1.0 (che sta per *RDF Site
@@ -216,7 +215,7 @@ Ero davvero convinto dell'utilità di RDF, perciò mi impegnai seriamente per
 convincere altri ad adottarlo. Quando seppi che il professor Lawrence Lessig
 stava lanciando un nuovo progetto chiamato Creative Commons, gli scrissi una
 mail dicendo che avrebbe dovuto utilizzare RDF per il suo progetto e gli
-spiegai perché. Qualche giorno dopo mi rispose: «Buona idea. Perché non lo fai
+spiegai il perché. Qualche giorno dopo mi rispose: «Buona idea. Perché non lo fai
 tu per noi?».
 
 Fu così che entrai nel mondo di Creative Commons, e da lì presi a frequentare
@@ -239,7 +238,7 @@ quella di mettere insieme un gruppo di sviluppatori in gamba, portarli a
 Boston per un'estate e dare loro un po' di soldi e la documentazione
 necessaria per fondare una start-up. Bisognava lavorare duro per costruire
 qualche cosa mentre si doveva imparare tutto quello che c'è da sapere sul
-business e procurarsi agganci con investitori e potenziali acquirenti. Paul mi
+business, e procurarsi agganci con investitori e potenziali acquirenti. Paul mi
 suggerì di candidarmi.
 
 Così feci, e dopo molto impegno, fatica e sforzi mi ritrovai a lavorare su
@@ -254,15 +253,13 @@ stato deturpato dagli spammer e che gli utenti non ci avessero abbandonato.
 Quando iniziai con Reddit, la crescita fu piuttosto lenta. Il sito fu lanciato
 molto presto (nel giro di poche settimane dall'inizio del progetto) ma durante
 i primi tre mesi difficilmente superava i tremila visitatori al giorno, che è
-all'incirca la quota per cui diventa utile [ricorrere a un feed
-RSS](https://it.wikipedia.org/wiki/Feed_RSS). Dopo un paio di settimane
-dedicate a maratone di sviluppo, spostammo il sito da
-[LISP](https://it.wikipedia.org/wiki/Lisp) [a
-Python](https://it.wikipedia.org/wiki/Python), e ne parlai sul mio blog.
-Ottenni una discreta attenzione (inclusi tuoni e fulmini dei fan del povero
-disprezzato LISP) e ancora oggi mi capita d'incontrare qualcuno che, quando
-accenno al fatto di aver lavorato con Reddit, risponde: «Ah, il sito migrato
-da LISP...».
+all'incirca la quota per cui diventa utile ricorrere a un [feed_RSS](https://it.wikipedia.org/wiki/Feed_RSS). 
+Dopo un paio di settimane dedicate a maratone di sviluppo, spostammo il sito da
+[LISP](https://it.wikipedia.org/wiki/Lisp) a [Python](https://it.wikipedia.org/wiki/Python),
+e ne parlai sul mio blog. Ottenni una discreta attenzione (inclusi tuoni e 
+fulmini dei fan del povero disprezzato LISP) e ancora oggi mi capita d'incontrare
+qualcuno che, quando accenno al fatto di aver lavorato con Reddit, 
+risponde: «Ah, il sito migrato da LISP...».
 
 Fu in quel periodo che il traffico iniziò a decollare davvero. Nei tre mesi
 successivi raddoppiò per ben due volte. Ogni mattina correvamo a controllare i
@@ -1029,7 +1026,7 @@ imponevano la rimozione di qualche contenuto considerato illegale, bensì di
 chiudere interi siti web. In sostanza, impediva agli americani di comunicare
 del tutto con certi gruppi e ambiti. Non esiste niente di simile nel nostro
 corpo legislativo. Se spari la musica ad alto volume per tutta la notte, le
-autorità non ti schiaffa un'ordinanza che t'impone di restare muto per le due
+autorità non ti schiaffano un'ordinanza che t'impone di restare muto per le due
 settimane successive. Non dicono: «nessuno potrà più fare rumore a casa
 vostra». Ci sarà una denuncia specifica, che ti chiede di porre rimedio al
 quel problema particolare, e poi la tua vita va avanti.
