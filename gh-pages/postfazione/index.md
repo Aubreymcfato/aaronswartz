@@ -172,7 +172,7 @@ Si tratta di materiali che Aaron avrebbe potuto leggere gratuitamente senza
 nessun problema, ma che ha voluto liberare a beneficio di tutti i “comuni
 mortali” a cui era proibito accedere a quelle informazioni. Il movimento
 [dell'Open Access](https://it.wikipedia.org/wiki/Open_access), al quale Aaron
-ha dedicato molte delle sue energie e del suoentusiasmo, rivolge ancora oggi
+ha dedicato molte delle sue energie e del suo entusiasmo, rivolge ancora oggi
 alla comunità scientifica un invito a liberarsi dalla tirannia degli dei che
 la governano, un invito a scardinare la gabbia del copyright dove sono tenute
 in ostaggio milioni di pubblicazioni scientifiche accessibili solo pagando un
@@ -186,7 +186,7 @@ consultazione, escludere dalla letteratura scientifica i paesi impoveriti e
 gli studenti del sud del mondo: tutto questo per Aaron era «oltraggioso e
 inaccettabile», e quando si tratta di riparare un oltraggio, liberare la
 conoscenza e sanare una ingiustizia, il cuore di un ragazzo libero e onesto –
-come quello di molti di noi – si muove senza esitazione verso ciò che è
+come quello di molti di noi – si muove senza esitazione verso ciò che è
 sentito come giusto, e non necessariamente verso ciò che è considerato legale
 pur non essendo sempre legittimo.
 
