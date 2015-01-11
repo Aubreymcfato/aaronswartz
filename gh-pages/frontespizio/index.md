@@ -36,5 +36,3 @@ commons by-nc-sa 3.0](http://creativecommons.org/licenses/by-nc-
 sa/3.0/it/deed.it) versione epub 1.0, 11 febbraio 2014
 
 * * * * *
-
-

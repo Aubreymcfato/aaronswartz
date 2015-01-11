@@ -60,7 +60,7 @@ del gennaio 2014)
 * [The Ghost of Aaron Swartz](http://www.flamingswordofjustice.com/episodes/17-the-ghost-of-aaron-swartz)
 (The Flaming Sword of Justice, radio episode, 19/03/2013) 
 
-* [New evidence that Steve Heymann committed serious prosecutorial misconduct](	)
+* [New evidence that Steve Heymann committed serious prosecutorial misconduct](http://tarensk.tumblr.com/post/45348635067/bombshell-new-evidence-that-steve-heymann)
 (Taren Stinebrickner-Kauffman, 14/03/2013)
 
 * [Requiem for a dream](http://www.newyorker.com/reporting/2013/03/11/130311fa_fact_macfarquhar)
