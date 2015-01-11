@@ -113,7 +113,7 @@ digitali in ogni parte del pianeta.
 La giustizia (la difficoltà di “fare la cosa giusta”, il labirinto dei
 “dipende”, l'impossiblità di
 [una giustizia totale](http://www.aaronsw.com/weblog/immoral))) è stata la
-grande ossessione di Aaron, edè beffardo rendersi conto che è stato proprio un
+grande ossessione di Aaron, ed è beffardo rendersi conto che è stato proprio un
 sistema di giustizia (un'istituzione, forse avrebbe detto lui) a costringerlo al
 suicidio. Un dato di fatto su cui c'è poco da controbattere, come hanno
 confermato una molteplicità di fonti e come documentano le testimonianze
