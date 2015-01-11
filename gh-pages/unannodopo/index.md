@@ -118,7 +118,7 @@ parecchi anni di carcere o rinunciare ai suoi diritti politici dichiarandosi
 colpevole di un reato penale. Di fronte a queste due opzioni, ne scelse una
 terza.
 
-Molti di noi continueranno a chiedersi se avessero potuto fare qualcosa di più
+Molti di noi continueranno a chiedersi se avrebbero potuto fare qualcosa di più
 per salvare Aaron. È questa la crudele conseguenza di ogni suicidio. L’autore
 di un rapporto sul comportamento del MIT durante il [caso
 giudiziario](http://www.technologyreview.com/view/519866/the-lessons-of-aaron-
