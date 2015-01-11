@@ -462,7 +462,7 @@ dalla ricerca. Il quadro giuridico in questo senso rimane invariato. Tutti gli
 obblighi sui dati aperti saranno dettagliati nella convenzione di sovvenzione
 di ciascun progetto.
 
-L’obbligo di conservare i dati impone degli obblighi supplementari ai
+L'obbligo di conservare i dati impone degli obblighi supplementari ai
 ricercatori?
 
 La Commissione collaborerà con gli Stati membri per aiutare i ricercatori a
@@ -473,10 +473,12 @@ corretto.
 
 Perché l’accesso walk-in tramite una biblioteca di pubblica lettura non può
 essere la soluzione per chi vuole leggere pubblicazioni scientifiche su
-riviste in abbonamento? I diritti di accesso walk-in sono una soluzione utile
-per alcuni gruppi, in particolare i singoli lettori, tuttavia i limiti imposti
-dall’orario di apertura edalle barriere geografiche dimostrano che si tratta
-di una soluzione inadatta. È invece grazie a Internet che si permette davvero
-un accesso 24/7 a chiunque ne abbia bisogno, compresi coloro che hanno
-necessità di utilizzare nuovi software e nuovi metodi scientifici digitali per
-condurre revisioni automatizzate di grandi quantità di dati e pubblicazioni.
+riviste in abbonamento?
+
+I diritti di accesso walk-in sono una soluzione utile per alcuni gruppi, in
+particolare i singoli lettori, tuttavia i limiti imposti dall’orario di
+apertura e dalle barriere geografiche dimostrano che si tratta di una
+soluzione inadatta. È invece grazie a Internet che si permette davvero un
+accesso 24/7 a chiunque ne abbia bisogno, compresi coloro che hanno necessità
+di utilizzare nuovi software e nuovi metodi scientifici digitali per condurre
+revisioni automatizzate di grandi quantità di dati e pubblicazioni.

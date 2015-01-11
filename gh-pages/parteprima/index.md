@@ -116,10 +116,11 @@ scelte a disposizione.
 #### Consigli per trovare un lavoro come il mio
 
 Intervento preparato per la conferenza informatica Tathva 2007 presso il NIT
-di Calcutta ([qui ulteriori
-dettagli](http://www.aaronsw.com/weblog/publicspeaking)*). Post originale: *
-[How to get a job like mine](http://www.aaronsw.com/weblog/legacy)*, dalla
-pagina di Aaron su* jottit.com, 27/09/2006. Traduzione di Marco Caresia.
+di Calcutta ([qui ulteriori dettagli](http://www.aaronsw.com/weblog/publicspeaking)). 
+Post originale:
+[How to get a job like mine](https://aaronsw.jottit.com/howtoget), dalla
+pagina di Aaron su [jottit.com](http://jottit.com), 27/09/2006.
+Traduzione di Marco Caresia.
 
 Lo scrittore statunitense Kurt Vonnegut era solito intitolare i suoi
 interventi pubblici “Come fare a trovare un lavoro come il mio” per poi
@@ -325,10 +326,11 @@ Ci trasferimmo tutti a San Francisco e iniziammo a lavorare negli uffici di
 Wired News (l'acquirente era Condé Nast, gruppo editoriale proprietario di
 [Wired](https://it.wikipedia.org/wiki/Wired) e diverse altre testate.)
 
-Ero davvero felice. Non sopportavo San Francisco. Odiavo la vita d'ufficio.
-Non lo sopportavo Wired. Presi una lunga vacanza natalizia. Mi ammalai. Pensai
-al suicidio. Scappavo alla sola vista dei poliziotti. E quando tornai il
-lunedì mattina, mi fu chiesto di rassegnare le dimissioni.
+
+Ero davvero infelice. Non sopportavo San Francisco. Odiavo la vita d’ufficio.
+Non sopportavo Wired. Presi una lunga vacanza natalizia. Mi ammalai. Pensai al
+suicidio. Scappavo alla sola vista dei poliziotti. E quando tornai il lunedì
+mattina, mi fu chiesto di rassegnare le dimissioni.
 
 #### 5. Libertà
 

@@ -37,28 +37,28 @@ E poi chiederemo a ciascuno di loro di porre ai prossimi candidati alla
 Presidenza Usa del 2016 una semplice domanda: Come pensa di porre fine a questa
 corruzione?».
 
-Così l'annuncio a fine 2013 per l'iniziativa lanciata dal Prof. Lawrence Lessig:
-[una marcia collettiva di 185 miglia](http://www.nhrebellion.org/) (quasi 300
-kilometri) attraverso lo Stato del New Hampshire per riportare all'attenzione
-pubblica l'irrisolto problema della corruzione a livello istituzionale.
-Il [relativo wiki](http://wiki.lessig.org/Prep_here) va raccogliendo
-informazioni di ogni tipo per prepararsi adeguatamente alla camminata, che
-muoverà sabato 11 gennaio 2014, primo anniversario della morte di Aaron Swartz,
-e si concluderà il 24 gennaio, anniversario della nascita di Doris Haddock,
-meglio nota come [Granny D](https://en.wikipedia.org/wiki/Doris_Haddock),
-scomparsa nel marzo 2010 a 100 anni.
+Così l'annuncio a fine 2013 per l'iniziativa lanciata dal Prof. Lawrence
+Lessig: [una marcia collettiva di 185 miglia](http://www.nhrebellion.org/)
+(quasi 300 kilometri) attraverso lo Stato del New Hampshire per riportare
+all'attenzione pubblica l'irrisolto problema della corruzione a livello
+istituzionale. Il [relativo wiki](http://wiki.lessig.org/Prep_here) va
+raccogliendo informazioni di ogni tipo per prepararsi adeguatamente alla
+camminata, che muoverà sabato 11 gennaio 2014, primo anniversario della morte
+di Aaron Swartz, e si concluderà il 24 gennaio, anniversario della nascita di
+Doris Haddock, meglio nota come [Granny D, scomparsa nel
+marzo](https://en.wikipedia.org/wiki/Doris_Haddock) 2010 a 100 anni.
 
-L'evento vuole emulare proprio la lunga marcia di quest'ultima, quando il primo
-gennaio 1999, all'età di 88 anni, si mise in cammino per circa 3.200 miglia
-(oltre 5.100 km), da Los Angeles a Washington, D.C., dove giunse il 29 febbraio
-2000, con un semplice cartello appeso al collo: Campaign Finance Reform (riforma
-dei finanziamenti per la campagna presidenziale). L'accostamento tra questi due
-attivisti (e le date prescelte) rivelano l'urgenza e la centralità della
-battaglia anti-corruzione nell'odierno contesto politico Usa, come chiariscono i
-promotori dell'iniziativa: «Grazie a Granny D e ad Aaron Swartz, tutti noi
-abbiamo capito una cosa: la riforma sarà possibile soltanto quando i candidati
-si renderanno conto che la loro vittoria dipende dalla risposta giusta che
-sapranno dare».
+L'evento vuole emulare proprio la lunga marcia di quest'ultima, quando il
+primo gennaio 1999, all'età di 88 anni, si mise in cammino per circa 3.200
+miglia (oltre 5.100 km), da Los Angeles a Washington, D.C., dove giunse il 29
+febbraio 2000, con un semplice cartello appeso al collo: Campaign Finance
+Reform (riforma dei finanziamenti per la campagna presidenziale).
+L'accostamento tra questi due attivisti (e le date prescelte) rivelano
+l'urgenza e la centralità della battaglia anti-corruzione nell'odierno
+contesto politico Usa, come chiariscono i promotori dell'iniziativa: «Grazie a
+Granny D e ad Aaron Swartz, tutti noi abbiamo capito una cosa: la riforma sarà
+possibile soltanto quando i candidati si renderanno conto che la loro vittoria
+dipende dalla risposta giusta che sapranno dare».
 
 D'altronde questa battaglia non è altro che uno dei tanti tasselli del puzzle
 democratico dell'era contemporanea, quel percorso per l'affermazione della
@@ -78,36 +78,36 @@ un movimento sociale più ampio. Con l'aggiunta obbligata, nel caso di Aaron, de
 ricorso alla tecnologia e agli strumenti di Internet dei nostri giorni – dandosi
 continuamente da fare per crearne di nuovi e più adatti ad ampliare la
 partecipazione e rendere sempre più efficace l'azione dei cittadini.
- 
+
 È proprio il filo rosso dell'impegno sociale a tutto tondo e senza frontiere
 che ci premeva sottolineare nel mettere insieme questo e-book a un anno dalla
 scomparsa di Aaron. Innanzitutto, un piccolo e attento contributo per
-ringraziarlo e celebrarne la vita, oltre che tassello di una memoria storica da
-tenere viva e presente. Ma anche uno strumento, speriamo utile, per provare a
-spingerne ulteriormente il messaggio nell'ambito italiano, a volte fin troppo
-relegato alla “periferia” dell'attivismo digitale globale. Con la consapevolezza
-di volerne portare avanti le battaglie in maniera collettiva, pur nel nostro
-piccolo.
+ringraziarlo e celebrarne la vita, oltre che tassello di una memoria storica
+da tenere viva e presente. Ma anche uno strumento, speriamo utile, per provare
+a spingerne ulteriormente il messaggio nell'ambito italiano, a volte fin
+troppo relegato alla "periferia" dell'attivismo digitale globale. Con la
+consapevolezza di volerne portare avanti le battaglie in maniera collettiva,
+pur nel nostro piccolo.
 
-Realizzato in maniera collaborativa con gli
-[annessi rilanci online](http://aaronswartztributo.tumblr.com/), l'e-book si
-apre con le traduzioni di alcuni suoi post e interventi sul web a partire dal
-2006, a sottolineare l'eclettismo e la vastità d'interessi, la puntigliosità e
-finanche l'autocritica impietosa di Aaron. La seconda parte presenta invece una
-serie di testimonianze e ricordi da parte di chi ha condiviso con lui progetti e
-battaglie, sia come articoli online che direttamente in alcuni eventi pubblici
-svoltisi in Usa dopo la sua morte. L'ultima sezione è dedicata a materiali di
-base su open access e cultura libera, temi al centro del lavoro di Aaron e
-altresì collante di un impegno sociale che interessa da vicino tutti noi e
-soprattutto il futuro della conoscenza condivisa. Non manca, in chiusura,
-un'ampia raccolta di link e risorse web per approfondire i vari aspetti della
-questione, a seconda degli interessi individuali – tutt'altro che esaustiva e
-soggetta ad essere ampliata e aggiornata da
-[chiunque vorrà coinvolgersi](http://aaronswartztributo.tumblr.com/). 
+Realizzato in maniera collaborativa con gli 
+[annessi rilanci online](http://aaronswartztributo.tumblr.com/), l'e-book 
+si apre con le traduzioni di alcuni suoi post e interventi sul web a partire
+dal 2006, a sottolineare l'eclettismo e la vastità d'interessi, la puntigliosità
+e finanche l'autocritica impietosa di Aaron. La seconda parte presenta invece
+una serie di testimonianze e ricordi da parte di chi ha condiviso con lui
+progetti e battaglie, sia come articoli online che direttamente in alcuni
+eventi pubblici svoltisi in Usa dopo la sua morte. L'ultima sezione è dedicata
+a materiali di base su open access e cultura libera, temi al centro del lavoro
+di Aaron e altresì collante di un impegno sociale che interessa da vicino
+tutti noi e soprattutto il futuro della conoscenza condivisa. Non manca, in
+chiusura, un'ampia raccolta di link e risorse web per approfondire i vari
+aspetti della questione, a seconda degli interessi individuali – tutt'altro
+che esaustiva e soggetta ad essere ampliata e aggiornata da
+[chiunque vorrà coinvolgersi](http://aaronswartztributo.tumblr.com/).
 
-Un tributo e un ricordo, quindi, mirato a riconoscere e celebrare il genio e il
-cuore di un grandissimo intellettuale e attivista del nostro secolo – quello
-che, speriamo, sarà un futuro modello per le generazioni future di nativi
+Un tributo e un ricordo, quindi, mirato a riconoscere e celebrare il genio e
+il cuore di un grandissimo intellettuale e attivista del nostro secolo – quello
+che, speriamo, sarà un futuro modello per le generazioni future di nativi 
 digitali in ogni parte del pianeta.
 
 La giustizia (la difficoltà di “fare la cosa giusta”, il labirinto dei

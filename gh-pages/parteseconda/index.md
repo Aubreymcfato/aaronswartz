@@ -277,8 +277,9 @@ essere incastrate e tormentate dal potere in modo così esemplare.
 
 #### Perché Aaron è morto
 
-Testo originale: [Why Aaron Died,](http://tarensk.tumblr.com/post/42260548767
-/why-aaron-died:) dal blog di Taren Stinebrickner-Kauffman, 04/02/2013.
+Testo originale:
+[Why Aaron Died](http://tarensk.tumblr.com/post/42260548767/why-aaron-died),
+dal blog di Taren Stinebrickner-Kauffman, 04/02/2013.
 Traduzione di Eusebia Parrotto.
 
 Qualche giorno fa mi sono svegliata e ho trovato Aaron lì con me. Era seduto
@@ -298,8 +299,8 @@ Così gli ho chiesto perché. Perché l'hai fatto? Cosa ti è passato per la men
 quando ti sei ucciso? Avrei fatto qualunque cosa per te. Qualsiasi cosa, se
 solo mi avessi detto di cosa avevi bisogno.
 
-“Io sono un sogno,” rispose, dopo una lunga pausa. “Non è mio compito dirti
-perché. Sono un sogno, non posso dirti nulla che non sai già”.
+"Io sono un sogno", rispose, dopo una lunga pausa. "Non è mio compito dirti
+perché. Sono un sogno, non posso dirti nulla che non sai già".
 
 Avvolta dalla tristezza, mi costrinsi a svegliarmi dall'incubo che mi
 avviluppava, solo per trovarmi di fronte all'incubo della vita reale. Non
@@ -403,7 +404,7 @@ in fondo, era anche autodistruttivo.
 
 Ma voglio ripeterlo ancora una volta: la morte di Aaron non è stata causata
 dalla depressione. Questo è un punto importante, perché molti ritengono che
-sia così, e che la risposta giusta alla sua morte è una cura migliore per la
+sia così, e che la risposta giusta alla sua morte sia una cura migliore per la
 depressione, una migliore capacità di percezione delle tendenze suicide.
 Questo Paese ha assoluto bisogno di queste cose – Aaron sarebbe stato il primo
 ad essere d'accordo – ma ne abbiamo bisogno perché questa è la cosa giusta da
@@ -411,9 +412,9 @@ fare, e non per quanto successo ad Aaron.
 
 Non so spiegare con precisione perché Aaron si è ucciso. Non so dire
 esattamente cosa gli passava per la testa. Se avessi saputo tutto ciò l'11
-gennaio, o se avessi almeno saputo le giuste cose giuste da chiedergli, forse
-sarei riuscita a fermarlo. Da quell'11 gennaio, ci ripenso a ogni ora del
-giorno e della notte.
+gennaio, o se avessi almeno saputo le cose giuste da chiedergli, forse sarei
+riuscita a fermarlo. Da quell'11 gennaio, ci ripenso a ogni ora del giorno e
+della notte.
 
 Come diceva però l'Aaron del sogno, posso solo sapere ciò che già so. E con la
 conoscenza che ho – per averlo guardato, ascoltato, per le cose che gli ho
@@ -465,7 +466,7 @@ soffiare sul fuoco.
 Sequestrare la conoscenza dietro un “paywall” – rendere disponibili le
 pubblicazioni scientifiche solo a pochi ragazzi abbastanza fortunati da
 frequentare università da sogno e far pagare un articolo 20 dollari al
-rimanente 99% di noi -era una ferita infetta. Un'offesa ai danni di tante
+rimanente 99% di noi – era una ferita infetta. Un’offesa ai danni di tante
 persone.
 
 Molti tra quanti avevano scritto quegli articoli rimanevano imbarazzati nel
@@ -714,11 +715,11 @@ ancora a parlare con me».
 
 Il mio post preferito, due anni dopo: «Ho deciso di smettere di provare
 imbarazzo. Dico addio a tutto: la sensazione crescente del momento che si
-avvicina, rendersi conto che ci siamo, quell'afflusso di sangue che ti arrossa
+avvicina, rendersi conto che ci siamo, quell’afflusso di sangue che ti arrossa
 le guance, quel fugace ma fortissimo desiderio di saltar fuori dalla tua pelle
 e poi, alla fine, quel sorrisone forzato che cerca di nascondere tutto. Certo,
-per un po' è stato divertente, ma credo che quella sensazione abbia smesso di
-essermiutile. È ora che l'imbarazzo sparisca».
+per un po’ è stato divertente, ma credo che quella sensazione abbia smesso di
+essermi utile. È ora che l’imbarazzo sparisca».
 
 Ecco chi era Aaron. Un ragazzo. Un uomo. Un uomo tutto d'un pezzo. Ha toccato
 decine di migliaia di persone, ne ha ispirate milioni, e nel mio tempo a
@@ -765,7 +766,7 @@ mettevano alle strette, se volevi essere come lui. Ti obbligavano a pensare a
 chi eri veramente, a cosa credevi sul serio e decidere: sei davvero la persona
 che pensi di essere? Così, quando la gente mi definisce il mentore di Aaron
 Swartz, guarda le cose al contrario. Era Aaron il mio mentore. Mi ha
-insegnato,sollecitato, guidato. È stato lui a farmi arrivare dove sono ora.
+insegnato, sollecitato, guidato. È stato lui a farmi arrivare dove sono ora.
 […]
 
 La disobbedienza civile vanta una tradizione significativa. David Byrne ha
