@@ -90,7 +90,7 @@ Poi Aaron cercò di leggermi un libro, ma aveva problemi nel decifrare le frasi.
 
 Così gli ho chiesto perché. Perché l'hai fatto? Cosa ti è passato per la mente quando ti sei ucciso? Avrei fatto qualunque cosa per te. Qualsiasi cosa, se solo mi avessi detto di cosa avevi bisogno.
 
-“Io sono un sogno,” rispose, dopo una lunga pausa. “Non è mio compito dirti perché. Sono un sogno, non posso dirti nulla che non sai già”.
+“Io sono un sogno”, rispose, dopo una lunga pausa. “Non è mio compito dirti perché. Sono un sogno, non posso dirti nulla che non sai già”.
 
 Avvolta dalla tristezza, mi costrinsi a svegliarmi dall'incubo che mi avviluppava, solo per trovarmi di fronte all'incubo della vita reale. Non avrei mai avuto le risposte che desideravo avere. Ma ho delle risposte che non ha nessun altro. Ecco perché ho deciso di scrivere questo post.
 
@@ -126,9 +126,9 @@ E forse la cosa più incredibile è stata la sua capacità di mantenere tutte qu
 
 Aaron era umano: non era sempre felice, e sono la prima a dire che a volte diventava davvero pesante vivere con lui. Poteva rivelarsi umorale e introverso. Era spesso vittima di forti dolori per via dei problemi di stomaco. Era esigente con se stesso (così come con gli altri). E naturalmente, in fondo, era anche autodistruttivo.
 
-Ma voglio ripeterlo ancora una volta: la morte di Aaron non è stata causata dalla depressione. Questo è un punto importante, perché molti ritengono che sia così, e che la risposta giusta alla sua morte è una cura migliore per la depressione, una migliore capacità di percezione delle tendenze suicide. Questo Paese ha assoluto bisogno di queste cose – Aaron sarebbe stato il primo ad essere d'accordo – ma ne abbiamo bisogno perché questa è la cosa giusta da fare, e non per quanto successo ad Aaron.
+Ma voglio ripeterlo ancora una volta: la morte di Aaron non è stata causata dalla depressione. Questo è un punto importante, perché molti ritengono che sia così, e che la risposta giusta alla sua morte sia una cura migliore per la depressione, una migliore capacità di percezione delle tendenze suicide. Questo Paese ha assoluto bisogno di queste cose – Aaron sarebbe stato il primo ad essere d'accordo – ma ne abbiamo bisogno perché questa è la cosa giusta da fare, e non per quanto successo ad Aaron.
 
-Non so spiegare con precisione perché Aaron si è ucciso. Non so dire esattamente cosa gli passava per la testa. Se avessi saputo tutto ciò l'11 gennaio, o se avessi almeno saputo le giuste cose giuste da chiedergli, forse sarei riuscita a fermarlo. Da quell'11 gennaio, ci ripenso a ogni ora del giorno e della notte.
+Non so spiegare con precisione perché Aaron si è ucciso. Non so dire esattamente cosa gli passava per la testa. Se avessi saputo tutto ciò l'11 gennaio, o se avessi almeno saputo le cose giuste da chiedergli, forse sarei riuscita a fermarlo. Da quell'11 gennaio, ci ripenso a ogni ora del giorno e della notte.
 
 Come diceva però l’Aaron del sogno, posso solo sapere ciò che già so. E con la conoscenza che ho – per averlo guardato, ascoltato, per le cose che gli ho chiesto, accanto a lui, lì nel letto, mentre mangiavamo, parlando nella metropolitana, dalle nostre scrivanie adiacenti nell'ufficio in cui lavoravamo su vari progetti – dalle nostre vite insieme, penso che la morte di Aaron non sia stata causata dalla depressione.
 
@@ -148,7 +148,7 @@ L’operazione di Aaron riguardo JSTOR non va considerata neppure per un attimo 
 
 JSTOR era da tempo oggetto di aspre critiche su Internet. In un suo intervento, Larry Lessig l’aveva definito un oltraggio morale, e suppongo di dover ammettere che mi stesse citando. E non eravamo certo gli unici a soffiare sul fuoco.
 
-Sequestrare la conoscenza dietro un “paywall” – rendere disponibili le pubblicazioni scientifiche solo a pochi ragazzi abbastanza fortunati da frequentare università da sogno e far pagare un articolo 20 dollari al rimanente 99% di noi -era una ferita infetta. Un’offesa ai danni di tante persone.
+Sequestrare la conoscenza dietro un “paywall” – rendere disponibili le pubblicazioni scientifiche solo a pochi ragazzi abbastanza fortunati da frequentare università da sogno e far pagare un articolo 20 dollari al rimanente 99% di noi - era una ferita infetta. Un’offesa ai danni di tante persone.
 
 Molti tra quanti avevano scritto quegli articoli rimanevano imbarazzati nel constatare che il loro lavoro produceva margini di profitto per qualcun altro, un club della conoscenza riservato ai soli soci.
 
@@ -246,7 +246,7 @@ Per 12 di quegli anni, ho avuto l’onore di conoscerlo. All’inizio lo incontr
 
 Un altro post recitava: «Stanford: Giorno 58: Kat e Vicky vogliono sapere perché faccio colazione da solo leggendo un libro, anziché chiacchierare con loro. Gli spiego che, per quanto siano carine e interessanti, il libro è scritto da un esperto assai preparato ed è zeppo di fatti. Mi spiegano che starsene seduti soli è un grave errore dal punto di vista sociale e non sentire il bisogno di parlare con gli altri è del tutto anormale. Dopotutto, posso chiacchierare con qualcuno se ne ho voglia, ma sono incapaci di stare sole. Mi fanno capire con cautela che risulto offensivo e che farei bene a stare attento se non voglio alienarmi le simpatie delle poche persone disposte ancora a parlare con me».
 
-Il mio post preferito, due anni dopo: «Ho deciso di smettere di provare imbarazzo. Dico addio a tutto: la sensazione crescente del momento che si avvicina, rendersi conto che ci siamo, quell’afflusso di sangue che ti arrossa le guance, quel fugace ma fortissimo desiderio di saltar fuori dalla tua pelle e poi, alla fine, quel sorrisone forzato che cerca di nascondere tutto. Certo, per un po’ è stato divertente, ma credo che quella sensazione abbia smesso di essermiutile. È ora che l’imbarazzo sparisca».
+Il mio post preferito, due anni dopo: «Ho deciso di smettere di provare imbarazzo. Dico addio a tutto: la sensazione crescente del momento che si avvicina, rendersi conto che ci siamo, quell’afflusso di sangue che ti arrossa le guance, quel fugace ma fortissimo desiderio di saltar fuori dalla tua pelle e poi, alla fine, quel sorrisone forzato che cerca di nascondere tutto. Certo, per un po’ è stato divertente, ma credo che quella sensazione abbia smesso di essermi utile. È ora che l’imbarazzo sparisca».
 
 Ecco chi era Aaron. Un ragazzo. Un uomo. Un uomo tutto d’un pezzo. Ha toccato decine di migliaia di persone, ne ha ispirate milioni, e nel mio tempo a disposizione stasera, vorrei dirvi in che modo penso Aaron meriti di essere celebrato. […]
 
@@ -256,7 +256,7 @@ E dunque Aaron era un hacker. Ma non solo. Era un attivista pro Internet. Ma non
 
 E ho condiviso con lui questo cambiamento. Nel giugno del 2007 anch’io annunciai di essere prossimo ad abbandonare il mio impegno riguardo Internet e il diritto d’autore per lavorare in quest’area della corruzione. Non posso sapere quando questo passaggio abbia preso corpo nel suo caso, ma so bene quando ha avuto senso per me. Tutto risale al 2006. Aaron aveva partecipato alla 23esima edizione della conferenza C3 a Berlino, io mi trovavo con la famiglia all’American Academy e lui venne a trovarmi. Parlammo a lungo, e nel corso di quella conversazione mi chiese quali progressi prevedevo nell’ambito in cui stavo lavorando, la riforma del copyright, la riforma della regolamentazione di Internet, vista l’esistenza, come diceva lui, di tutta questa “corruzione” in campo politico. Cercai di sviarlo un attimo. «Guarda, non è il mio campo». E lui replicò, «Capisco. Come accademico, intendi?». Risposi: «Sì, come accademico, non è il mio campo». Allora lui fece: «E come cittadino, è il tuo campo?».
 
-Era questa la sua forza. Una forza straordinaria, non autorizzata. Come i migliori insegnanti, insegnava ponendo domande. Come per i leader più efficaci, le sue domande tracciavano un percorso, il suo percorso. Ti mettevano alle strette, se volevi essere come lui. Ti obbligavano a pensare a chi eri veramente, a cosa credevi sul serio e decidere: sei davvero la persona che pensi di essere? Così, quando la gente mi definisce il mentore di Aaron Swartz, guarda le cose al contrario. Era Aaron il mio mentore. Mi ha insegnato,sollecitato, guidato. È stato lui a farmi arrivare dove sono ora. […]
+Era questa la sua forza. Una forza straordinaria, non autorizzata. Come i migliori insegnanti, insegnava ponendo domande. Come per i leader più efficaci, le sue domande tracciavano un percorso, il suo percorso. Ti mettevano alle strette, se volevi essere come lui. Ti obbligavano a pensare a chi eri veramente, a cosa credevi sul serio e decidere: sei davvero la persona che pensi di essere? Così, quando la gente mi definisce il mentore di Aaron Swartz, guarda le cose al contrario. Era Aaron il mio mentore. Mi ha insegnato, sollecitato, guidato. È stato lui a farmi arrivare dove sono ora. […]
 
 La disobbedienza civile vanta una tradizione significativa. David Byrne ha [scritto un pezzo](http://journal.davidbyrne.com/2013/02/020513-civil-disobedience.html) su Aaron e la disobbedienza civile, in cui riflette sugli esempi di disobbedienza civile della storia. È soprattutto in questo contesto che si pensa a lui come il maggior protagonista della disobbedienza civile nel XX secolo.
 
