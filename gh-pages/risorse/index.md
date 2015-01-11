@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Risorse
-previous: postfazione/
-next:
+previous: /postfazione/
+next: /
 ---
 
 ### SELEZIONE DI ARTICOLI, LINK E RISORSE UTILI

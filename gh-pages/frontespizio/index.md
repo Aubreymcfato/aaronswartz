@@ -2,7 +2,7 @@
 layout: page
 title: Frontespizio
 previous:
-next: prefazione/
+next: /prefazione/
 ---
 * * * * *
 
