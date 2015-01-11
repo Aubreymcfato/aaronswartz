@@ -96,7 +96,7 @@ Ma alla fine andammo nell’ufficio dell’avvocato per firmare tutti i document
 
 Ci trasferimmo tutti a San Francisco e iniziammo a lavorare negli uffici di Wired News (l’acquirente era Condé Nast, gruppo editoriale proprietario di [Wired](https://it.wikipedia.org/wiki/Wired) e diverse altre testate.) 
 
-Ero davvero felice. Non sopportavo San Francisco. Odiavo la vita d’ufficio. Non lo sopportavo Wired. Presi una lunga vacanza natalizia. Mi ammalai. Pensai al suicidio. Scappavo alla sola vista dei poliziotti. E quando tornai il lunedì mattina, mi fu chiesto di rassegnare le dimissioni.
+Ero davvero felice. Non sopportavo San Francisco. Odiavo la vita d’ufficio. Non sopportavo Wired. Presi una lunga vacanza natalizia. Mi ammalai. Pensai al suicidio. Scappavo alla sola vista dei poliziotti. E quando tornai il lunedì mattina, mi fu chiesto di rassegnare le dimissioni.
 
 #### 5. Libertà
 
