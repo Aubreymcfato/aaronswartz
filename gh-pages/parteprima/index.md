@@ -301,7 +301,7 @@ azienda e in cambio saremmo diventati tutti ricchi. Mollammo tutto per avviare
 le trattative con i potenziali acquirenti. E il sito rimase fermo.
 
 I negoziati andarono avanti per mesi. Preparammo piani e fogli di calcolo e
-andammo nelle varie sedi a fare presentazioni e incontri e telefonate senza
+andammo nelle varie sedi a fare presentazioni e incontri, e telefonate senza
 fine. Poi loro rifiutarono la cifra che volevamo e noi ce ne andammo. Dopo un
 po' cambiarono antifona e alla fine ci stringemmo la mano e concordammo la
 vendita – solo per iniziare a trattare su altri punti chiave, solo per
@@ -345,7 +345,7 @@ Ma un giorno ricevetti la telefonata da Brewster Kahle, il fondatore
 stupenda iniziativa mirata a digitalizzare tutto il possibile per poi renderlo
 disponibile sul web. Disse che aveva intenzione di avviare un progetto di cui
 avevamo parlato in passato. L'idea era quella di raccogliere le informazioni
-di tutti i libri al mondo in un unico spazio – un wiki gratuito di
+di tutti i libri al mondo in un unico spazio – una wiki gratuita di
 informazioni bibliografiche. Mi misi subito al lavoro e nei due mesi
 successivi iniziai a contattare biblioteche, coinvolgere sviluppatori,
 collaborare con un grafico e a fare ogni tipo di cose strane per mettere il
@@ -355,7 +355,7 @@ realizzato da uno sviluppatore indiano di grande talento: Anand Chitipothu.
 
 Un altro amico, Seth Roberts, suggerì di provare a trovare un modo per
 riformare il sistema dell'istruzione superiore. Non ci siamo messi d'accordo
-su una buona soluzione, ma l'abbiamo fatto per un'altra buona idea: un wiki
+su una buona soluzione, ma l'abbiamo fatto per un'altra buona idea: una wiki
 per spiegare agli studenti come trovare un lavoro. Questo progetto dovrebbe
 partire al più presto.
 
@@ -375,9 +375,9 @@ con un po' di fortuna, dovrebbero partire a breve.
 Ho perfino deciso di dedicarmi al giornalismo. Il mio primo articolo su carta
 stampata è stato pubblicato la settimana scorsa. Ho poi aperto un paio di blog
 sulla scienza e ho iniziato a lavorare a un mio articolo accademico. Si basa
-su uno studio che feci tempo fa su chi in effetti scrive le voci di Wikipedia.
+su uno studio che feci tempo fa su chi, di fatto, scrive le voci di Wikipedia.
 Qualcuno, tra cui Jimmy Wales, che è tipo il portavoce pubblico del progetto,
-sostiene che dopo tutto Wikipedia non è poi una grande iniziativa distribuita
+sostiene che dopo tutto Wikipedia non è poi una grande iniziativa distribuita,
 dato che a curarne le voci sono principalmente circa 500 persone, molte delle
 quali conosce personalmente.
 
@@ -401,12 +401,12 @@ Qual è allora il segreto? Come posso condensare le cose che faccio in piccole
 e brevi frasi che mi facciano fare un'ottima figura? Eccole qui:
 
 1.  Essere curiosi. Leggere tanto. Provare cose nuove. Penso che gran parte di
-quanto definiamo intelligenza si riduca in fondo alla curiosità. 2.  Dire sì a
-tutto. Mi faccio un sacco di problemi a dire di no, quasi ad un livello
+quanto definiamo intelligenza si riduca in fondo alla curiosità. 
+2.  Dire sì a tutto. Mi faccio un sacco di problemi a dire di no, quasi ad un livello
 patologico, sia che si tratti di nuovi progetti che di interviste che di
 amici. Come risultato, sono stato coinvolto in tante storie, e anche se la
-maggior parte sono fallite, ho comunque prodotto qualcosa di buono. 3.
-Presumere sempre che anche gli altri non abbiano idea di quanto stanno
+maggior parte sono fallite, ho comunque prodotto qualcosa di buono. 
+3.Presumere sempre che anche gli altri non abbiano idea di quanto stanno
 facendo. Molti rifiutano di provare qualcosa di nuovo perché sentono di non
 saperne abbastanza, o presumono che altri abbiano già provato tutto quello che
 loro riescono a proporre. Be', sono in pochi a sapere davvero come fare le
@@ -428,12 +428,11 @@ di avervi dato una mano.
 
 #### Dire addio all'imbarazzo
 
-Post originale: [Say Goodbye to
-Embarrassment](http://www.aaronsw.com/weblog/emotions), dal blog Raw Thought,
-08/01/2006. Traduzione di Silvia Franchini.
+Post originale: [Say Goodbye to Embarrassment](http://www.aaronsw.com/weblog/emotions), 
+dal blog Raw Thought, 08/01/2006. Traduzione di Silvia Franchini.
 
 Ho deciso di smettere di provare imbarazzo. Voglio dire addio a tutto quanto:
-la sensazione crescente del momento che si avvicina, rendersi conto che è,
+la sensazione crescente del momento che si avvicina, rendersi conto che è
 quell'afflusso di sangue che ti arrossa le guance, quel fugace ma fortissimo
 desiderio di saltar fuori dalla tua pelle e poi, alla fine, quel sorrisone
 forzato che cerca di nascondere tutto. Certo, per un po' è stato divertente,
@@ -454,7 +453,7 @@ Rammaricarsi per aver fatto qualcosa di sbagliato – ecco un'altra emozione
 interessante. Voglio dire, a cosa serve in pratica? «Non si piange sul latte
 versato», mi disse una volta mia madre vedendomi singhiozzare dopo aver
 versato il latte per terra mentre facevo colazione. «Suppongo sia così»,
-risposi tra i singhiozzi. «Anche se, forse, le lacrime diluiranno il latte ed
+risposi tra i singhiozzi, «anche se forse, le lacrime diluiranno il latte ed
 eviteranno che si appiccichi per terra…». Ma sbagliavo: il latte era rimasto
 comunque appiccicato. Ecco perché forse la prossima emozione ad andarsene sarà
 il rimpianto.
@@ -479,9 +478,8 @@ normale.
 
 #### La vita nel mondo dell'immoralità diffusa: l'etica dell'esser vivo
 
-Post originale: [Life in a World of Pervasive Immorality: The Ethics of Being
-Alive](http://www.aaronsw.com/weblog/immoral), dal blog Raw Thought,
-02/08/2009. Traduzione di Silvia Franchini.
+Post originale: [Life in a World of Pervasive Immorality: The Ethics of Being Alive](http://www.aaronsw.com/weblog/immoral),
+dal blog Raw Thought, 02/08/2009. Traduzione di Silvia Franchini.
 
 Pensavo di essere una brava persona. Di certo non avevo mai ucciso nessuno,
 per esempio. Poi però Peter Singer mi ha spiegato che gli animali hanno una
@@ -584,9 +582,8 @@ questioni?
 
 #### Il libro che mi ha cambiato la vita
 
-Post originale: [The Book That Changed My
-Life](http://www.aaronsw.com/weblog/epiphany)*, *dal blog Raw Thought,
-15/05/200. Traduzione di Andrea Zanni.
+Post originale: [The Book That Changed My Life](http://www.aaronsw.com/weblog/epiphany)*,
+*dal blog Raw Thought, 15/05/200. Traduzione di Andrea Zanni.
 
 L'estate di due anni fa ho letto un libro che ha completamente trasformato la
 mia visione del mondo. Dopo aver fatto delle ricerche su vari argomenti –
@@ -600,7 +597,7 @@ Più ci riflettevo su e più mi rendevo conto che le implicazioni di questa
 situazione si facevano ampie e profonde. Ma non avevo ancora una visione
 d'insieme per contestualizzare il tutto. I media stavano semplicemente facendo
 un cattivo lavoro, incrementando la confusione generale. Bastava insomma
-metterli sotto pressione per convincerli a far meglio e avremmo ripristinato
+metterli sotto pressione per convincerli a far meglio, e avremmo così ripristinato
 la democrazia.
 
 Poi, una sera, ho deciso di guardare il film Manufacturing Consent: Noam
