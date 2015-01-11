@@ -27,9 +27,9 @@ Traduzione di Bernardo Parrella.
 
 
 Le persone ambiziose vogliono lasciare un'eredità ai posteri, ma di che tipo di
-lascito si tratta? Il criterio tradizionale è misurato dagli effetti delle
-nostre azioni. È così che gli avvocati più importanti diventano i giudici della
-Corte Suprema, poiché le loro decisioni hanno effetti sull'intera nazione.
+lascito si tratta? Il criterio tradizionale è misurato dagli effetti delle nostre azioni. 
+È così che gli avvocati più importanti diventano i giudici della Corte Suprema, 
+poiché le loro decisioni hanno effetti sull'intera nazione.
 E i matematici più affermati sono quelli che fanno scoperte significative,
 le quali finiscono per essere usate dalle moltitudini successive.
 
@@ -37,7 +37,7 @@ Un quadro piuttosto ragionevole. L'eredità di una persona dipende dall'impatto
 che produce, e il modo migliore per misurarlo è considerare gli effetti delle
 sue azioni. Ma fare ciò significa spesso misurarle con il metro sbagliato.
 L'ottica giusta non è quella di osservare gli effetti del proprio impegno,
-bensì quella di immaginare come sarebbero le cose non se non si fosse agito.
+bensì quella di immaginare come sarebbero le cose se non si fosse agito.
 
 Si tratta di due prospettive ben diverse tra loro. È normale accettare il fatto
 che certe idee siano mature per la loro epoca, e la storia tende a confermarlo.
@@ -50,7 +50,7 @@ Antonio Meucci].
 In questi esempi i fatti sono palesi: qualora Newton, Darwin e Bell non avessero
 fatto quelle scoperte, il risultato sarebbe stato sostanzialmente lo stesso —
 avremmo comunque l'algebra, l'evoluzione delle specie e il telefono.  Eppure
-costoro vengono salutati come eroi importanti e il loro lascito è immortale.
+costoro vengono salutati come eroi importanti, e il loro lascito è immortale.
 
 Se dovesse interessarci soltanto l'aspetto dell'adulazione per quantificare
 l'impatto di un eredità, non sarebbe forse sufficiente. (Pur trattandosi di un
@@ -62,26 +62,25 @@ riflessione più attenta.
 
 Tempo fa incontrai un noto accademico, il quale aveva pubblicato svariati
 testi ampiamente riconosciuti come classici perfino al di fuori della sua
-disciplina, e mi offrì alcuni consigli per fare carriera in campo scientifico.
-Ora mi è chiaro che ciò che mi disse vale per due persone, a conferma che
-trattasi di un fenomeno di più ampia portata. Attualmente l'ambito x è assai
+disciplina. Egli mi offrì alcuni consigli per fare carriera in campo scientifico.
+Ora mi è chiaro che ciò che mi disse vale per due persone, a conferma che si
+tratta di un fenomeno di più ampia portata. Attualmente l'ambito x è assai
 “caldo”, mi disse, potresti davvero farti un nome dandoti da fare in quel
 campo. L'idea di fondo era che presto ne sarebbero nate scoperte importanti e,
 qualora mi fossi buttato in quel settore, avrei potuto essere io a farle.
 
-Secondo il mio metro personale, ne conseguirebbe un'eredità assai scadente.
+Secondo il mio metro di giudizio personale, ne conseguirebbe un'eredità assai scadente.
 Per quel che possa valere, non credo che nessuno di questi esempi possa
 rientrare in questa categoria; ovvero, la reputazione di chi persegue questa
-via è comunque meritata e valutata anche in base a questi parametri. Ancor
+via è comunque valutata anche in base a questi parametri. Ancor
 peggio, se consideriamo come sono andate le cose fin ora: si presume che
 Darwin e Newton non abbiano avviato le loro indagini perché ritenevano che
 quel campo fosse “caldo”. Mettendo in pratica le loro idee, ritennero di
-produrre un impatto significativo, pur se ciò non si fosse rivelato corretto.
+produrre un impatto significativo, pur se ciò non si fosse poi rivelato corretto.
 Ma se qualcuno decide di entrare in un certo campo scientifico semplicemente
 perché ritiene che presto ne scaturirà una scoperta importante, non potrà mai
 sperimentare una simile delusione. Al contrario, sarà cosciente del fatto che
-il suo lavoro produrrà scarso impatto, e dovrà operare in base a
-quest'impressione.
+il suo lavoro produrrà scarso impatto, e dovrà operare in base a quest'impressione.
 
 Lo stesso vale per altre professioni che erroneamente riteniamo importanti.
 Prendiamo per esempio i giudici della Corte Suprema. Tradizionalmente lo si
@@ -181,7 +180,7 @@ anch'io.](https://it.wikipedia.org/wiki/RSS)
 
 Era estate, avevo finito la scuola e non avevo un lavoro, quindi non mi
 mancava di certo il tempo libero. Così lo spesi tutto nella lettura ossessiva
-della mailing list relativa a RSS 1.0, e facendo ogni tipo di strano lavoretto
+della mailing list relativa a RSS 1.0, e contribuendo con ogni tipo di strano lavoretto
 o qualsiasi altra cosa ci fosse bisogno di fare. In breve, mi chiesero se
 volevo entrare formalmente nel gruppo di lavoro e alla fine diventai co-autore
 e successivamente co-gestore della specifica RSS 1.0 (che sta per *RDF Site
@@ -216,7 +215,7 @@ Ero davvero convinto dell'utilità di RDF, perciò mi impegnai seriamente per
 convincere altri ad adottarlo. Quando seppi che il professor Lawrence Lessig
 stava lanciando un nuovo progetto chiamato Creative Commons, gli scrissi una
 mail dicendo che avrebbe dovuto utilizzare RDF per il suo progetto e gli
-spiegai perché. Qualche giorno dopo mi rispose: «Buona idea. Perché non lo fai
+spiegai il perché. Qualche giorno dopo mi rispose: «Buona idea. Perché non lo fai
 tu per noi?».
 
 Fu così che entrai nel mondo di Creative Commons, e da lì presi a frequentare
@@ -239,7 +238,7 @@ quella di mettere insieme un gruppo di sviluppatori in gamba, portarli a
 Boston per un'estate e dare loro un po' di soldi e la documentazione
 necessaria per fondare una start-up. Bisognava lavorare duro per costruire
 qualche cosa mentre si doveva imparare tutto quello che c'è da sapere sul
-business e procurarsi agganci con investitori e potenziali acquirenti. Paul mi
+business, e procurarsi agganci con investitori e potenziali acquirenti. Paul mi
 suggerì di candidarmi.
 
 Così feci, e dopo molto impegno, fatica e sforzi mi ritrovai a lavorare su
@@ -254,15 +253,13 @@ stato deturpato dagli spammer e che gli utenti non ci avessero abbandonato.
 Quando iniziai con Reddit, la crescita fu piuttosto lenta. Il sito fu lanciato
 molto presto (nel giro di poche settimane dall'inizio del progetto) ma durante
 i primi tre mesi difficilmente superava i tremila visitatori al giorno, che è
-all'incirca la quota per cui diventa utile [ricorrere a un feed
-RSS](https://it.wikipedia.org/wiki/Feed_RSS). Dopo un paio di settimane
-dedicate a maratone di sviluppo, spostammo il sito da
-[LISP](https://it.wikipedia.org/wiki/Lisp) [a
-Python](https://it.wikipedia.org/wiki/Python), e ne parlai sul mio blog.
-Ottenni una discreta attenzione (inclusi tuoni e fulmini dei fan del povero
-disprezzato LISP) e ancora oggi mi capita d'incontrare qualcuno che, quando
-accenno al fatto di aver lavorato con Reddit, risponde: «Ah, il sito migrato
-da LISP...».
+all'incirca la quota per cui diventa utile ricorrere a un [feed_RSS](https://it.wikipedia.org/wiki/Feed_RSS). 
+Dopo un paio di settimane dedicate a maratone di sviluppo, spostammo il sito da
+[LISP](https://it.wikipedia.org/wiki/Lisp) a [Python](https://it.wikipedia.org/wiki/Python),
+e ne parlai sul mio blog. Ottenni una discreta attenzione (inclusi tuoni e 
+fulmini dei fan del povero disprezzato LISP) e ancora oggi mi capita d'incontrare
+qualcuno che, quando accenno al fatto di aver lavorato con Reddit, 
+risponde: «Ah, il sito migrato da LISP...».
 
 Fu in quel periodo che il traffico iniziò a decollare davvero. Nei tre mesi
 successivi raddoppiò per ben due volte. Ogni mattina correvamo a controllare i
@@ -304,7 +301,7 @@ azienda e in cambio saremmo diventati tutti ricchi. Mollammo tutto per avviare
 le trattative con i potenziali acquirenti. E il sito rimase fermo.
 
 I negoziati andarono avanti per mesi. Preparammo piani e fogli di calcolo e
-andammo nelle varie sedi a fare presentazioni e incontri e telefonate senza
+andammo nelle varie sedi a fare presentazioni e incontri, e telefonate senza
 fine. Poi loro rifiutarono la cifra che volevamo e noi ce ne andammo. Dopo un
 po' cambiarono antifona e alla fine ci stringemmo la mano e concordammo la
 vendita – solo per iniziare a trattare su altri punti chiave, solo per
@@ -348,7 +345,7 @@ Ma un giorno ricevetti la telefonata da Brewster Kahle, il fondatore
 stupenda iniziativa mirata a digitalizzare tutto il possibile per poi renderlo
 disponibile sul web. Disse che aveva intenzione di avviare un progetto di cui
 avevamo parlato in passato. L'idea era quella di raccogliere le informazioni
-di tutti i libri al mondo in un unico spazio – un wiki gratuito di
+di tutti i libri al mondo in un unico spazio – una wiki gratuita di
 informazioni bibliografiche. Mi misi subito al lavoro e nei due mesi
 successivi iniziai a contattare biblioteche, coinvolgere sviluppatori,
 collaborare con un grafico e a fare ogni tipo di cose strane per mettere il
@@ -358,7 +355,7 @@ realizzato da uno sviluppatore indiano di grande talento: Anand Chitipothu.
 
 Un altro amico, Seth Roberts, suggerì di provare a trovare un modo per
 riformare il sistema dell'istruzione superiore. Non ci siamo messi d'accordo
-su una buona soluzione, ma l'abbiamo fatto per un'altra buona idea: un wiki
+su una buona soluzione, ma l'abbiamo fatto per un'altra buona idea: una wiki
 per spiegare agli studenti come trovare un lavoro. Questo progetto dovrebbe
 partire al più presto.
 
@@ -378,9 +375,9 @@ con un po' di fortuna, dovrebbero partire a breve.
 Ho perfino deciso di dedicarmi al giornalismo. Il mio primo articolo su carta
 stampata è stato pubblicato la settimana scorsa. Ho poi aperto un paio di blog
 sulla scienza e ho iniziato a lavorare a un mio articolo accademico. Si basa
-su uno studio che feci tempo fa su chi in effetti scrive le voci di Wikipedia.
+su uno studio che feci tempo fa su chi, di fatto, scrive le voci di Wikipedia.
 Qualcuno, tra cui Jimmy Wales, che è tipo il portavoce pubblico del progetto,
-sostiene che dopo tutto Wikipedia non è poi una grande iniziativa distribuita
+sostiene che dopo tutto Wikipedia non è poi una grande iniziativa distribuita,
 dato che a curarne le voci sono principalmente circa 500 persone, molte delle
 quali conosce personalmente.
 
@@ -404,12 +401,12 @@ Qual è allora il segreto? Come posso condensare le cose che faccio in piccole
 e brevi frasi che mi facciano fare un'ottima figura? Eccole qui:
 
 1.  Essere curiosi. Leggere tanto. Provare cose nuove. Penso che gran parte di
-quanto definiamo intelligenza si riduca in fondo alla curiosità. 2.  Dire sì a
-tutto. Mi faccio un sacco di problemi a dire di no, quasi ad un livello
+quanto definiamo intelligenza si riduca in fondo alla curiosità. 
+2.  Dire sì a tutto. Mi faccio un sacco di problemi a dire di no, quasi ad un livello
 patologico, sia che si tratti di nuovi progetti che di interviste che di
 amici. Come risultato, sono stato coinvolto in tante storie, e anche se la
-maggior parte sono fallite, ho comunque prodotto qualcosa di buono. 3.
-Presumere sempre che anche gli altri non abbiano idea di quanto stanno
+maggior parte sono fallite, ho comunque prodotto qualcosa di buono. 
+3.Presumere sempre che anche gli altri non abbiano idea di quanto stanno
 facendo. Molti rifiutano di provare qualcosa di nuovo perché sentono di non
 saperne abbastanza, o presumono che altri abbiano già provato tutto quello che
 loro riescono a proporre. Be', sono in pochi a sapere davvero come fare le
@@ -431,12 +428,11 @@ di avervi dato una mano.
 
 #### Dire addio all'imbarazzo
 
-Post originale: [Say Goodbye to
-Embarrassment](http://www.aaronsw.com/weblog/emotions), dal blog Raw Thought,
-08/01/2006. Traduzione di Silvia Franchini.
+Post originale: [Say Goodbye to Embarrassment](http://www.aaronsw.com/weblog/emotions), 
+dal blog Raw Thought, 08/01/2006. Traduzione di Silvia Franchini.
 
 Ho deciso di smettere di provare imbarazzo. Voglio dire addio a tutto quanto:
-la sensazione crescente del momento che si avvicina, rendersi conto che è,
+la sensazione crescente del momento che si avvicina, rendersi conto che è
 quell'afflusso di sangue che ti arrossa le guance, quel fugace ma fortissimo
 desiderio di saltar fuori dalla tua pelle e poi, alla fine, quel sorrisone
 forzato che cerca di nascondere tutto. Certo, per un po' è stato divertente,
@@ -457,7 +453,7 @@ Rammaricarsi per aver fatto qualcosa di sbagliato – ecco un'altra emozione
 interessante. Voglio dire, a cosa serve in pratica? «Non si piange sul latte
 versato», mi disse una volta mia madre vedendomi singhiozzare dopo aver
 versato il latte per terra mentre facevo colazione. «Suppongo sia così»,
-risposi tra i singhiozzi. «Anche se, forse, le lacrime diluiranno il latte ed
+risposi tra i singhiozzi, «anche se forse, le lacrime diluiranno il latte ed
 eviteranno che si appiccichi per terra…». Ma sbagliavo: il latte era rimasto
 comunque appiccicato. Ecco perché forse la prossima emozione ad andarsene sarà
 il rimpianto.
@@ -482,9 +478,8 @@ normale.
 
 #### La vita nel mondo dell'immoralità diffusa: l'etica dell'esser vivo
 
-Post originale: [Life in a World of Pervasive Immorality: The Ethics of Being
-Alive](http://www.aaronsw.com/weblog/immoral), dal blog Raw Thought,
-02/08/2009. Traduzione di Silvia Franchini.
+Post originale: [Life in a World of Pervasive Immorality: The Ethics of Being Alive](http://www.aaronsw.com/weblog/immoral),
+dal blog Raw Thought, 02/08/2009. Traduzione di Silvia Franchini.
 
 Pensavo di essere una brava persona. Di certo non avevo mai ucciso nessuno,
 per esempio. Poi però Peter Singer mi ha spiegato che gli animali hanno una
@@ -587,9 +582,8 @@ questioni?
 
 #### Il libro che mi ha cambiato la vita
 
-Post originale: [The Book That Changed My
-Life](http://www.aaronsw.com/weblog/epiphany)*, *dal blog Raw Thought,
-15/05/200. Traduzione di Andrea Zanni.
+Post originale: [The Book That Changed My Life](http://www.aaronsw.com/weblog/epiphany)*,
+*dal blog Raw Thought, 15/05/200. Traduzione di Andrea Zanni.
 
 L'estate di due anni fa ho letto un libro che ha completamente trasformato la
 mia visione del mondo. Dopo aver fatto delle ricerche su vari argomenti –
@@ -603,7 +597,7 @@ Più ci riflettevo su e più mi rendevo conto che le implicazioni di questa
 situazione si facevano ampie e profonde. Ma non avevo ancora una visione
 d'insieme per contestualizzare il tutto. I media stavano semplicemente facendo
 un cattivo lavoro, incrementando la confusione generale. Bastava insomma
-metterli sotto pressione per convincerli a far meglio e avremmo ripristinato
+metterli sotto pressione per convincerli a far meglio, e avremmo così ripristinato
 la democrazia.
 
 Poi, una sera, ho deciso di guardare il film Manufacturing Consent: Noam
@@ -1029,7 +1023,7 @@ imponevano la rimozione di qualche contenuto considerato illegale, bensì di
 chiudere interi siti web. In sostanza, impediva agli americani di comunicare
 del tutto con certi gruppi e ambiti. Non esiste niente di simile nel nostro
 corpo legislativo. Se spari la musica ad alto volume per tutta la notte, le
-autorità non ti schiaffa un'ordinanza che t'impone di restare muto per le due
+autorità non ti schiaffano un'ordinanza che t'impone di restare muto per le due
 settimane successive. Non dicono: «nessuno potrà più fare rumore a casa
 vostra». Ci sarà una denuncia specifica, che ti chiede di porre rimedio al
 quel problema particolare, e poi la tua vita va avanti.
