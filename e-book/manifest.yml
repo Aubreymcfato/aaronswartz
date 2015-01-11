@@ -4,11 +4,11 @@ author: "Bernardo Parrella e Andrea Zanni"
 date: "gennaio 2013 (v. 1.0)"
 
 # EPUB options
-epub-filename: aaronswartz.epub
-epub-cover-image: ./aaron.jpg
-epub-metadata: ./metadata.xml
-epub-stylesheet: ./main.css
-epub-dir: /home/cristian/Extra/aaronsw/aaronswartz-dev/gen
+epub-filename: "aaronswartz.epub"
+epub-cover-image: "cover.jpg"
+epub-metadata: "metadata.xml"
+epub-stylesheet: "e-book-stylesheet.css"
+epub-dir: "."
 
 # Header items
 header-items:
@@ -18,7 +18,7 @@ header-items:
 - citation
 
 # Body Content
-content-dir: ../gh-pages/
+content-dir: "../gh-pages/"
 contents:
   # Frontespizio
   - section-title: Frontespizio
