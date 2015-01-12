@@ -583,7 +583,7 @@ questioni?
 #### Il libro che mi ha cambiato la vita
 
 Post originale: [The Book That Changed My Life](http://www.aaronsw.com/weblog/epiphany)*,
-*dal blog Raw Thought, 15/05/200. Traduzione di Andrea Zanni.
+*dal blog Raw Thought, 15/05/2006. Traduzione di Andrea Zanni.
 
 L'estate di due anni fa ho letto un libro che ha completamente trasformato la
 mia visione del mondo. Dopo aver fatto delle ricerche su vari argomenti –
@@ -643,8 +643,8 @@ Mentre leggevo era come se la mia mente venisse scossa alle fondamenta. A
 volte le idee erano talmente enormi da assorbire che dovevo letteralmente
 sdraiarmi da qualche parte. (Non sono il solo a sentirmi in questo modo:
 Norman Finkelstein ha confessato di aver vissuto una situazione analoga: «È
-stata un'esperienza assolutamente schiacciante.... Mi è letteralmente crollato
-addosso il mondo. E per un certo numero di settimane ... non facevo altro che
+stata un'esperienza assolutamente schiacciante. ... Mi è letteralmente crollato
+addosso il mondo. E per un certo numero di settimane... non facevo altro che
 starmene a letto, completamente devastato») Ricordo bene di essermi aggrappato
 alla porta della mia camera, cercando di tenermi stretto a qualcosa mentre la
 testa mi girava vorticosamente.
@@ -695,9 +695,9 @@ cultura di Wikipedia, ma una delle cose che disse mi restò particolarmente
 impressa.
 
 «L'idea che molti hanno di Wikipedia è che si tratta di un fenomeno emergente
-«– la saggezza o l'intelligenza della folla, o cose simili – con migliaia e
-«migliaia di singoli utenti, ognuno dei quali aggiunge un pezzetto di
-«contenuto, da cui emerge un lavoro complessivo coerente».
+– la saggezza o l'intelligenza della folla, o cose simili – con migliaia e
+migliaia di singoli utenti, ognuno dei quali aggiunge un pezzetto di
+contenuto, da cui emerge un lavoro complessivo coerente».
 
 Tuttavia, ci tenne a chiarire, la verità era ben diversa: di fatto le voci di
 Wikipedia venivano compilate da «una comunità … un gruppo composto da poche
@@ -722,7 +722,7 @@ trovare qualcosa tipo la regola dell'80-20: 80% del lavoro svolto dal 20%
 degli utenti, solo perché sembra sia una percentuale alquanto frequente. Di
 fatto però [la proporzione] è molto, ma molto più ridotta: è venuto fuori che
 oltre il 50% delle modifiche viene fatto da appena il 7% degli utenti... 524
-persone. ... E anzi i più attivi, circa il 2%, ossia 1.400 persone, sono
+persone. ...E anzi i più attivi, circa il 2%, ossia 1.400 persone, sono
 responsabili del 73,4% di tutte le modifiche. Il restante 25% delle modifiche,
 aggiunse «era dovuto a persone che apportano minime revisioni… correggono i
 dettagli minori di un evento o qualche refuso ... o cose simili».
@@ -736,9 +736,9 @@ la gran parte delle modifiche», spiegò all'[Oxford Internet
 Institute.](http://webcast.oii.ox.ac.uk/?view=Webcast&ID=20050711_76)
 
 «Si tratta di un gruppo composto tra le mille e le duemila persone», confermò
-«al pubblico del [GEL 2005.](http://vimeo.com/4082784) Questi sono i tre
-«interventi a cui ho assistito personalmente, ma Wales ne ha fatti altri
-«centinaia con affermazioni analoghe.
+al pubblico del [GEL 2005.](http://vimeo.com/4082784) Questi sono i tre
+interventi a cui ho assistito personalmente, ma Wales ne ha fatti altre
+centinaia con affermazioni analoghe.
 
 Gli studenti di Stanford apparivano scettici. Wales aveva contato soltanto la
 quantità di modifiche – il numero di volte che un utente aveva cambiato
@@ -752,7 +752,7 @@ Wales presenta queste affermazioni come qualcosa di confortante. Non
 preoccupatevi, dice al mondo, Wikipedia non è così scioccante come si crede.
 In realtà non differisce granché da qualsiasi altro progetto: un piccolo
 gruppo di colleghi che lavorano insieme per uno scopo comune. Ma se ci
-pensando bene, però, è la visione delle cose proposta da Wales ad apparire ben
+pensiamo bene, però, è la visione delle cose proposta da Wales ad apparire ben
 più scandalosa: è stato solo un migliaio di persone ad aver compilato
 gratuitamente la più grande enciclopedia al mondo in quattro anni? Sarà mica
 vero?
@@ -846,7 +846,7 @@ contenuti.
 E pensandoci bene, questo quadro è perfettamente logico. Non è certo facile
 compilare le voci di un'enciclopedia. Per fare un lavoro che si possa dire
 decente, bisogna avere un'ottima conoscenza riguardo a una notevole e
-ampiavarietà di discipline. È già difficile riuscire a scrivere così tanto, ma
+ampia varietà di discipline. È già difficile riuscire a scrivere così tanto, ma
 diventa impossibile fare tutte le necessarie ricerche di supporto
 
 D'altra parte, ciascuno di noi impara a conoscere piuttosto bene, per un
@@ -868,7 +868,7 @@ che dei revisori delle loro voci.
 
 Lo stesso dicasi per Wikipedia. Anche se tutti i revisori lasciassero il
 progetto domattina, Wikipedia avrebbe comunque un valore incommensurabile. Per
-la maggior parte, la gente la usa perché contiene le informazioni che stanno
+la maggior parte, la gente la usa perché contiene le informazioni che stiamo
 cercando, non perché ha un aspetto coerente. Sicuramente non sarebbe così ben
 fatta, ma probabilmente quanti hanno a cuore queste cose (come il
 sottoscritto) si farebbero avanti per prendere il posto di chi ha abbandonato
@@ -893,15 +893,15 @@ persone invisibili non siano particolarmente importanti. Ne deriva la
 convinzione di Wales che 500 utenti abbiano scritto mezza enciclopedia. Da qui
 la sua ipotesi che gli autori esterni contribuiscano soprattutto con
 vandalismi e cose senza senso. E da qui derivano quei commenti che si sentono
-a volte in giro, cioè che sarebbe positivo rendere più difficili apportare
+a volte in giro, cioè che sarebbe positivo rendere più difficile apportare
 modifiche al sito.
 
 «Non sono un amante del wiki che per caso è finito a lavorare su
-«un'enciclopedia", spiegava Wales al pubblico di Oxford. Sono un amante delle
-«enciclopedie al quale è capitato di usare un wiki». Allora non sorprende la
-«sua idea di una Wikipedia scritta in modo tradizionale. Purtroppo è un quadro
-«pericoloso. Se Wikipedia continua a focalizzarsi sull'enciclopedia a scapito
-«del wiki, potrebbe finire per non essere né l'uno né l'altra.
+un'enciclopedia», spiegava Wales al pubblico di Oxford. «Sono un amante delle
+enciclopedie al quale è capitato di usare un wiki». Allora non sorprende la
+sua idea di una Wikipedia scritta in modo tradizionale. Purtroppo è un quadro
+pericoloso. Se Wikipedia continua a focalizzarsi sull'enciclopedia a scapito
+del wiki, potrebbe finire per non essere né l'uno né l'altra.
 
 
 
@@ -926,10 +926,10 @@ ipotesi, ciò sarà valido solo per i testi pubblicati in futuro. Tutto ciò che
 è stato pubblicato finora andrà perduto.
 
 È un prezzo troppo alto da pagare. Costringere i ricercatori a pagare per
-È leggere il lavoro dei colleghi? Scansionare intere biblioteche, ma
-È consentire di leggerne i libri solo a chi lavora per Google? Fornire
-È articoli scientifici alle università d'élite del Primo Mondo, ma non ai
-È bambini del Sud del mondo? Tutto ciò è oltraggioso e inaccettabile.
+leggere il lavoro dei colleghi? Scansionare intere biblioteche, ma
+consentire di leggerne i libri solo a chi lavora per Google? Fornire
+articoli scientifici alle università d'élite del Primo Mondo, ma non ai
+bambini del Sud del mondo? Tutto ciò è oltraggioso e inaccettabile.
 
 «Siamo d'accordo», dicono in molti, ma cosa possiamo fare? Sono le aziende
 «editoriali a detenere i diritti d'autore, a guadagnare somme enormi
@@ -992,7 +992,7 @@ scorso, ma quello prima, settembre 2010. Ho ricevuto una telefonata dal mio
 amico Peter: «Aaron, c'è un disegno di legge incredibile al quale devi dare
 un'occhiata». «Cos'è?», ho chiesto. «Si chiama COICA, Combating Online
 Infringement and Counterfeiting Act». «Peter, le leggi sul copyright non
-m'interessano. Forse ragione tu, forse ha ragione Hollywood. Ma in ogni caso,
+m'interessano. Forse hai ragione tu, forse ha ragione Hollywood. Ma in ogni caso,
 qual è il problema? Non ho intenzione di sprecare la mia vita a lottare per
 una questione ristretta come il diritto d'autore. Sanità, riforme finanziarie,
 questi sono i problemi di cui mi occupo, non qualcosa di oscuro come il
@@ -1023,7 +1023,7 @@ imponevano la rimozione di qualche contenuto considerato illegale, bensì di
 chiudere interi siti web. In sostanza, impediva agli americani di comunicare
 del tutto con certi gruppi e ambiti. Non esiste niente di simile nel nostro
 corpo legislativo. Se spari la musica ad alto volume per tutta la notte, le
-autorità non ti schiaffano un'ordinanza che t'impone di restare muto per le due
+autorità non ti schiaffa un'ordinanza che t'impone di restare muto per le due
 settimane successive. Non dicono: «nessuno potrà più fare rumore a casa
 vostra». Ci sarà una denuncia specifica, che ti chiede di porre rimedio al
 quel problema particolare, e poi la tua vita va avanti.
@@ -1042,8 +1042,8 @@ Il loro punto debole era il copyright.
 
 Quando si trattava di diritto d'autore, era come se una parte del cervello del
 sistema giudiziario tendesse a spegnersi, dimenticandosi completamente del
-Primo Emendamento. Si ha la sensazione che, alla fine, non pensano neppure che
-il Primo Emendamento va applicato anche quando c'è in gioco il diritto
+Primo Emendamento. Si ha la sensazione che, alla fine, non pensino neppure che
+il Primo Emendamento vada applicato anche quando c'è in gioco il diritto
 d'autore. Ciò significa che, se si voleva censurare Internet, se si voleva
 trovare un qualche modo grazie al quale le autorità potessero bloccare
 l'accesso a determinati siti web, questo disegno di legge poteva essere
@@ -1144,7 +1144,7 @@ Sociale è stata approvata perché John D. Rockefeller era stufo di dover
 stornare soldi dai suoi profitti per pagare i fondi pensione dei lavoratori.
 Perché farlo, quando si può semplicemente fare in modo che sia il governo a
 prendere soldi dai lavoratori? Ora, non sto dicendo che la Previdenza
-Socialesia negativa, penso anzi che sia una cosa fantastica. È soltanto che il
+Sociale sia negativa, penso anzi che sia una cosa fantastica. È soltanto che il
 modo di convincere il governo a fare cose fantastiche è trovare qualche mega
 azienda disposta a sostenerle. Il problema è, naturalmente, che le grandi
 imprese non sono affatto entusiaste delle libertà civili. Meglio, non è che vi
@@ -1177,8 +1177,7 @@ potessimo fare per impedirlo.
 Così ho fatto quello che si fa quando sei un piccolo uomo di fronte a un
 futuro terribile, irto di difficoltà e con scarse speranze di successo: ho
 lanciato una petizione online. Ho chiamato tutti i miei amici, e siamo stati
-svegli tutta la notte creando il sito web per questo nuovo gruppo, [Demand
-Progress](http://demandprogress.org/), con una petizione online per opporsi a
+svegli tutta la notte creando il sito web per questo nuovo gruppo, [Demand Progress](http://demandprogress.org/), con una petizione online per opporsi a
 questa proposta di legge nociva, e l'ho fatta girare. Be', avevo fatto cose
 simili prima. Ho lavorato con alcune delle più importanti organizzazioni che
 preparano petizioni online. Ho scritto per loro un sacco di cose e ne ho lette
@@ -1233,12 +1232,12 @@ dei ragazzini che vanno in giro agitando le braccia dicendo che il governo
 aveva intenzione di censurare Internet. Dovevamo sembrare un po' folli. Potete
 chiederlo domani a [Larry](http://it.wikipedia.org/wiki/Lawrence_Lessig)
 [Lessig]. Continuavo a raccontargli quanto stava accadendo, insistendo perché
-si coinvolgesse, e sono abbastanza sicuro chepensasse che stessi esagerando.
+si coinvolgesse, e sono abbastanza sicuro che pensasse che stessi esagerando.
 Anch'io iniziai a dubitare di me stesso. È stato un periodo difficile.
 
 Quando però la proposta è tornata in ballo e ha iniziato a muoversi di nuovo,
 di colpo tutto il lavoro che avevamo fatto iniziava a prender forma. Tutte le
-persone con cui avevamo parlato iniziarono improvvisamente a darsida fare e a
+persone con cui avevamo parlato iniziarono improvvisamente a darsi da fare e a
 incitare gli altri. Si è trasformato tutto in una valanga. È successo così in
 fretta.
 
@@ -1253,7 +1252,7 @@ tech, ma quando capì che invece era il mio ambito, fece molto seriamente:
 Penso però che questa storia spieghi bene quanto è accaduto in quelle due
 settimane, perché il motivo per cui abbiamo vinto non era dovuto al fatto che
 io mi stavo impegnando o perché si stavano dando da fare perfino Reddit
-oGoogle o Tumblr, o qualsiasi altra persona in particolare. È stato per via di
+o Google o Tumblr, o qualsiasi altra persona in particolare. È stato per via di
 quest'enorme cambiamento mentale nel nostro settore. Ognuno aveva escogitato
 qualcosa di personale per dare una mano, spesso anche con modi assai
 intelligenti e ingegnosi. La gente iniziò a fare dei video, a preparare delle
@@ -1294,7 +1293,7 @@ Rete! Internet va tenuta sotto controllo!».
 
 Ora, per quanto ne so, nessuno ha mai messo i missili nucleari degli Stati
 Uniti su Internet. Voglio dire, non l'ho mai sentito. Ma il punto è chiaro.
-Nonera un'affermazione razionale, giusto? È stata questa paura irrazionale che
+Non era un'affermazione razionale, giusto? È stata questa paura irrazionale che
 le cose fossero fuori controllo. Qui c'era questo tipo, un senatore degli
 Stati Uniti, e quella gente su Internet non faceva che prenderlo in giro.
 Andavano messi in riga. Bisognava tenere le cose sotto controllo. Penso fosse
@@ -1329,24 +1328,22 @@ oppongono; e dall'altro lato, si legge “15 gennaio”, ed è esattamente il
 contrario, con tutti che si oppongono, e solo pochi nomi rimasti ancora a
 sostegno.
 
-È stato davvero qualcosa senza precedenti. Non credete solo alle mie parole,
-È ma chiedete all'ex senatore Chris Dodd, ovvero il maggior lobbista per
-È Hollywood. Ha ammesso, dopo aver perso, di essere stato lui ad architettare
-È quel piano malvagio. E ha detto al New York Times che non aveva mai visto
-È niente di simile durante i tanti anni trascorsi al Congresso. E tutti quelli
-È con cui ho parlato sono d'accordo. Il popolo si è ribellato e ha fatto
-È cambiare rotte a Washington, non la stampa che si era rifiutata di
-È raccontare la storia. Guarda caso, i loro proprietari facevano tutti
-È casualmente lobby a favore del disegno di legge, non i politici, che ne
-È erano più o meno all'unanimità a favore, e non le aziende, che avevano quasi
-È rinunciato a cercare di fermarla,sostenendone l'inevitabilità. stata
-È veramente bloccata dal popolo, proprio dalla gente.
+È stato davvero qualcosa senza precedenti. Non credete solo alle mie parole, ma chiedete all'ex senatore Chris Dodd, ovvero il maggior lobbista per Hollywood. Ha ammesso, dopo aver perso, di essere stato lui ad architettare
+quel piano malvagio. E ha detto al New York Times che non aveva mai visto
+niente di simile durante i tanti anni trascorsi al Congresso. E tutti quelli
+con cui ho parlato sono d'accordo. Il popolo si è ribellato e ha fatto
+cambiare rotte a Washington, non la stampa che si era rifiutata di
+raccontare la storia. Guarda caso, i loro proprietari facevano tutti
+casualmente lobby a favore del disegno di legge, non i politici, che ne
+erano più o meno all'unanimità a favore, e non le aziende, che avevano quasi
+rinunciato a cercare di fermarla,sostenendone l'inevitabilità. stata
+veramente bloccata dal popolo, proprio dalla gente.
 
 Hanno colpito a morte la legge, ed è così morta che quando i membri del
 Congresso adesso propongono qualcosa che ha a che fare anche solo parzialmente
 con Internet, devono fare un lungo discorso di introduzione su come non
 assomiglia affatto al SOPA. È talmente bell'e defunta che quando si chiede
-allo staff del Congresso, gemono e scuotono la testa come se fosse tuttoun
+allo staff del Congresso, gemono e scuotono la testa come se fosse tutto un
 brutto sogno che stanno cercando di dimenticare con molta difficoltà. È così
 finita che è un po' difficile credere a questa storia, difficile ricordare
 quanto la norma fosse vicina all'approvazione, difficile ricordare come le
