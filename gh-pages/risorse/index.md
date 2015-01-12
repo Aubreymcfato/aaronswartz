@@ -96,7 +96,7 @@ Special di DemocracyNow! (04/03/2013) dalla [Freedom to Connect](http://freedom-
 * [Aaron Wants To Be Free](http://www.buzzfeed.com/robf4/aaron-wants-to-be-free)
 (Rob Fishman, BuzzFeed, 14/02/2013)
 
-* [Civil Disobedience 2](http://journal.davidbyrne.com/2013/02/21213-civil-disobedience-2.html)
+* [Civil Disobedience 2](http://copsrcorrupt.com/2013/02/15/civil-disobedience-by-david-byrne)
  (David Byrne, 12/02/2013)
 
 * [Remembering Aaron Swartz (1986-2013)](http://blog.wikimedia.org/2013/01/12/remembering-aaron-swartz-1986-2013/)
@@ -212,9 +212,6 @@ cura di [Valigia Blu](http://www.valigiablu.it/)
 * [RIP Aaron](http://www.unipd.it/ilbo/content/rip-aaron)
 (Antonella De Robbio, 22/01/2013)
 
-* [Aaron Swartz](http://www.patamu.com/index.php?option=com_content&view=article&id=104)
-(Andrea Mancianti, 15/01/2013) 
-
 * [Aaron Swartz, Open](http://www.doppiozero.com/materiali/web-analysis/aaron-swartz-open) 
 (Tiziano Bonini, DoppioZero, 14/01/2013)
 
@@ -261,15 +258,14 @@ con [annotazioni aggiuntive](http://aubreymcfato.com/2013/01/17/fact-checking-e-
 * [Perché il pubblico dominio è importante](http://www.stampalternativa.it/liberacultura/books/bollier.pdf)
 (pdf, David Bollier, 2002)
 
-* [Definizione di Conoscenza Aperta](http://opendefinition.org/okd/italiano/)
+* [Definizione di Conoscenza Aperta](http://opendefinition.org/od/1.0/it/)
 (OKFN)
 
 * [Open Access overview](http://legacy.earlham.edu/~peters/fos/overview.htm)
 (Peter Suber, in inglese)
 
 [The Cost of Knowledge](http://thecostofknowledge.com/) 
-(sito e [dichiarazione](http://gowers.files.wordpress.com/2012/02/elsevierstatementfi
- nal.pdf), in inglese)
+(sito e [dichiarazione](http://gowers.files.wordpress.com/2012/02/elsevierstatementfinal.pdf), in inglese)
 
 *Libri:*
 
