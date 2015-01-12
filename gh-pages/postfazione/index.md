@@ -18,8 +18,6 @@ next: /risorse/
 
 * * * * *
 
-### POSTFAZIONE
-
 #### Lo spirito di Prometeo e l'etica hacker nella vita di Aaron Swartz
 
 [Gli scritti e le azioni](https://it.wikipedia.org/wiki/Aaron_Swartz) di Aaron

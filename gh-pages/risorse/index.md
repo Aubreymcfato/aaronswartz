@@ -5,7 +5,7 @@ previous: /postfazione/
 next: /
 ---
 
-### SELEZIONE DI ARTICOLI, LINK E RISORSE UTILI
+### Selezione di articoli, link e risorse utili
 
 * Aaron Swartz Award for the 
 [Best Writing Commons Webtext](http://writingcommons.org/about/the-aaron-swartz-best-webtext-award),
