@@ -932,7 +932,7 @@ ipotesi, ciò sarà valido solo per i testi pubblicati in futuro. Tutto ciò che
 È bambini del Sud del mondo? Tutto ciò è oltraggioso e inaccettabile.
 
 «Siamo d'accordo», dicono in molti, ma cosa possiamo fare? Sono le aziende
-«editoriali a detenere i diritti d'autore, a guadagnare somme enormi somme
+«editoriali a detenere i diritti d'autore, a guadagnare somme enormi
 «facendo pagare l'accesso, ed è tutto perfettamente legale — non possiamo far
 «nulla per fermarli». Però è possibile intervenire, facendo qualcosa che è già
 «stato fatto: possiamo contrattaccare.
@@ -967,7 +967,7 @@ scoperto e, nella grande tradizione della disobbedienza civile, dichiarare la
 nostra opposizione a questo furto privato della cultura pubblica.
 
 Dobbiamo acquisire le informazioni, ovunque siano archiviate, farne copie e
-condividerle con il mondo. Dobbiamo prendere ciò che è non è più coperto dal
+condividerle con il mondo. Dobbiamo prendere ciò che non è più coperto dal
 diritto d'autore e caricarlo [sull'Internet Archive.](http://www.archive.org/)
 Dobbiamo acquisire banche dati segrete e metterle sul web. Dobbiamo scaricare
 riviste scientifiche e caricarle sulle reti di condivisione. Dobbiamo lottare
@@ -1015,7 +1015,7 @@ che valga la pena fare un passo indietro, mettendo da parte tutta la retorica
 e pensare solo per un attimo all'estrema radicalità di questo disegno.
 
 Certo, non mancano nel nostro Paese le norme che regolano la libertà
-d'espressione Se si calunnia un privato, se uno spot televisivo sostiene cose
+d'espressione: se si calunnia un privato, se uno spot televisivo sostiene cose
 false, se si fa una festa che dura tutta la notte con la musica a tutto
 volume, in tutti questi casi il governo può intervenire e fermarti. Ma qui era
 in gioco qualcosa di radicalmente diverso. Non si trattava delle autorità che
@@ -1030,11 +1030,7 @@ quel problema particolare, e poi la tua vita va avanti.
 
 L'esempio più simile che ho trovato è stato un caso in cui il governo ha fatto
 la guerra a una libreria per adulti. In quel posto continuavano a vendere
-pornografia, e le autorità continuava a sequestrare quel materiale considerato
-illegale. E poi, frustrati, decisero imporre la chiusura della libreria. Ma
-anche quella richiesta alla fine venne dichiarata incostituzionale, una
-violazione del Primo Emendamento [alla Costituzione Usa, che sancisce la
-libertà di parola].
+pornografia, e le autorità continuavano a sequestrare quel materiale considerato illegale. E poi, frustrati, decisero di imporre la chiusura della libreria. Ma anche quella richiesta alla fine venne dichiarata incostituzionale, una violazione del Primo Emendamento [alla Costituzione Usa, che sancisce la libertà di parola].
 
 Potremmo dire insomma che sicuramente anche il COICA verrebbe dichiarato
 incostituzionale. Sapevo però che la Corte Suprema aveva un punto debole
