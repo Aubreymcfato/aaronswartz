@@ -96,8 +96,10 @@ Special di DemocracyNow! (04/03/2013) dalla [Freedom to Connect](http://freedom-
 * [Aaron Wants To Be Free](http://www.buzzfeed.com/robf4/aaron-wants-to-be-free)
 (Rob Fishman, BuzzFeed, 14/02/2013)
 
-* [Civil Disobedience 2](http://copsrcorrupt.com/2013/02/15/civil-disobedience-by-david-byrne)
- (David Byrne, 12/02/2013)
+* [Civil Disobedience](https://web.archive.org/web/20130211011625/http://journal.davidbyrne.com/2013/02/020513-civil-disobedience.html)
+(David Byrne, 05/02/2013) ed una versione riveduta:
+[Civil Disobedience 2](https://web.archive.org/web/20130221024110/http://journal.davidbyrne.com/2013/02/21213-civil-disobedience-2.html)
+del 12/02/2013
 
 * [Remembering Aaron Swartz (1986-2013)](http://blog.wikimedia.org/2013/01/12/remembering-aaron-swartz-1986-2013/)
 (Erik Moller, Wikimedia Foundation, 12/02/2013)
