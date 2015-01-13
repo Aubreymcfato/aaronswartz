@@ -4,8 +4,8 @@ title: Prefazione
 previous: /frontespizio/
 next: /unannodopo/
 ---
-* * * * *
 
+* * * * *
 
 <!---Below is a blockquote -->
 > Think deeply about things.
@@ -18,11 +18,9 @@ next: /unannodopo/
 >
 > – A. S.
 
-![Graffito riportante la scritta "RIP Aaron Swartz" dell'artist BAMN, a Brooklyn](../Images/2OOaswartz_ital_img_1.jpg)
+![Graffito riportante la scritta "RIP Aaron Swartz" dell'artista BAMN, a Brooklyn](../Images/2OOaswartz_ital_img_1.jpg)
 
 * * * * *
-
-### PREFAZIONE
 
 #### Per un impegno civile senza soste né frontiere
 

@@ -5,9 +5,6 @@ previous: /prefazione/
 next: /parteprima/
 ---
 
-### UN ANNO DOPO
-
-
 #### Persone che lasciano il segno: Aaron Swartz (1986-2013)
 
 Articolo originale di Lawrence Lessig pubblicato su
