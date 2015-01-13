@@ -1,19 +1,28 @@
-aaronswartz
-===========
+AARON SWARTZ (1986 – 2013)
+--------------------------
 
-Spazio di collaborazione e aggiornamento per l'ebook di tributo ad Aaron Swartz.
-Maggiori info (e i download) [qui](http://aaronswartztributo.tumblr.com/). 
+una vita per la cultura libera e la giustizia sociale
 
-Nella [cartella Text](https://github.com/Aubreymcfato/aaronswartz/tree/master/OEBPS/Text) si trovano i singoli capitoli:
-* HTML
-* in MarkDown (markdown_github), generati dall'HTML con pandoc.
+[http://aaronswartztributo.tumblr.com/](http://aaronswartztributo.tumblr.com/)
 
-### Istruzioni
-**Per rilettori**
-* fate login su GitHub (se non avete un account, registratevi in alto a destra)
-* tornate [qui](https://github.com/Aubreymcfato/aaronswartz/tree/master/OEBPS/Text)
-* modificate e correggete gli errori nei file .md. Salvate.  
+progetto e coordinamento: 
+[bernardo parrella](mailto:bernardo.parrella@mail.com?subject=aaronsw%20ebook) 
+e [andrea zanni](mailto:zanni.andrea84@gmail.com?subject=aaronsw%20ebook) 
 
-**Per devs**
-* l'ebook necessità di un po' di cura grafica ed editoriale. Se riuscite a darci una mano, grazie. 
-* [opzionale] potrebbe essere carino mettere su un sito in Jekyll, e magari generare l'ebook automaticamente (con un [plugin del genere](https://github.com/lmullen/jekyll-ebook)). Questo permetterebbe di lavorarci insieme anche durate l'anno e aggiornare il tutto quando ci pare. 
+
+copertina:
+eleonora oscari e alessandra costi; 
+
+
+foto:
+[sage ross](https://commons.wikimedia.org/wiki/File:Aaron_Swartz_2_at_Boston_Wikipedia_Meetup,_2009-08-18_.jpg) (cc by-sa)
+
+
+traduzioni: marco caresia, cristian consonni, elena corradini,
+silvia franchini, francesco pandini, bernardo parrella, mauro pili, eusebia
+parrotto, valentina tosi, andrea zanni 
+
+
+Ebook rilasciato con licenza [creative
+commons by-nc-sa 3.0](http://creativecommons.org/licenses/by-nc-
+sa/3.0/it/deed.it) versione epub 1.0, 11 febbraio 2014
