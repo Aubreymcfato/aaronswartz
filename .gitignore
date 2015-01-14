@@ -1,1 +1,7 @@
-e-book/*.epub
+.DS_Store
+node_modules
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
