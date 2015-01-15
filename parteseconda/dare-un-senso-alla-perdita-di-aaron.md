@@ -1,9 +1,7 @@
 #### Dare un senso alla perdita di Aaron
 
-Testo originale: [Processing the loss of Aaron
-Swartz](http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-
-swartz.html)*, **dal blog di danah boyd*, 13/01/2013. Traduzione di Cristian
-Consonni.
+_Testo originale: [Processing the loss of Aaron Swartz](http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-swartz.html), dal blog di danah boyd, 13/01/2013. Traduzione di Cristian
+Consonni._
 
 Le ultime 24 ore sono state delle montagne russe a livello emotivo.
 [Ieri](http://boingboing.net/2013/01/12/rip-aaron-swartz.html)

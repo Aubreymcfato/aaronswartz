@@ -1,7 +1,6 @@
 #### La vita nel mondo dell'immoralità diffusa: l'etica dell'esser vivo
 
-Post originale: [Life in a World of Pervasive Immorality: The Ethics of Being Alive](http://www.aaronsw.com/weblog/immoral),
-dal blog Raw Thought, 02/08/2009. Traduzione di Silvia Franchini.
+_Post originale: [Life in a World of Pervasive Immorality: The Ethics of Being Alive](http://www.aaronsw.com/weblog/immoral), dal blog Raw Thought, 02/08/2009. Traduzione di Silvia Franchini._
 
 Pensavo di essere una brava persona. Di certo non avevo mai ucciso nessuno,
 per esempio. Poi però Peter Singer mi ha spiegato che gli animali hanno una

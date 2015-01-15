@@ -1,8 +1,6 @@
 #### Accesso aperto ai dati scientifici – Comunicazioni e raccomandazioni
 
-[](http://europa.eu/rapid/press-release_MEMO-12-565_en.htm)
-[Documento](http://europa.eu/rapid/press-release_MEMO-12-565_en.htm) della
-Commissione Europea, 17/07/2012. Traduzione di Valentina Tosi.
+_[Documento](http://europa.eu/rapid/press-release_MEMO-12-565_en.htm) della Commissione Europea, 17/07/2012. Traduzione di Valentina Tosi._
 
 Cos’è l’accesso aperto?
 

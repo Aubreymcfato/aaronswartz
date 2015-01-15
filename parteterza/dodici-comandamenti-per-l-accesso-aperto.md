@@ -1,7 +1,6 @@
-**Dodici comandamenti per l’accesso aperto**
+#### Dodici comandamenti per l’accesso aperto
 
-Maria Chiara Pievatolo, [ripreso](http://btfp.sp.unipi.it/?p=1479) dal
-Bollettino Telematico di Filosofia Politica, 11/02/2012.
+_Maria Chiara Pievatolo, [ripreso](http://btfp.sp.unipi.it/?p=1479) dal Bollettino Telematico di Filosofia Politica, 11/02/2012._
 
 Come può comportarsi un ricercatore che vuole diffondere l’[accesso
 aperto](http://btfp.sp.unipi.it/?qa_faqs=che-cose-la-pubblicazione-ad-accesso-

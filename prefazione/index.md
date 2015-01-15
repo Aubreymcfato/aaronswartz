@@ -1,5 +1,3 @@
-
-<!---Below is a blockquote -->
 > Think deeply about things.
 >
 > Don't just go along because that's the way things are or that's what your
@@ -148,6 +146,5 @@ propagarlo.
 
 Grazie, Aaron, di tutto.
 
-Bernardo Parrella e Andrea Zanni, gennaio 2014
+_Bernardo Parrella e Andrea Zanni, gennaio 2014_
 
-* * * * *

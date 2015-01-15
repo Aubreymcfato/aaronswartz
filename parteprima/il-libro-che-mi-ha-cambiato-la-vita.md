@@ -1,7 +1,6 @@
 #### Il libro che mi ha cambiato la vita
 
-Post originale: [The Book That Changed My Life](http://www.aaronsw.com/weblog/epiphany)*,
-*dal blog Raw Thought, 15/05/2006. Traduzione di Andrea Zanni.
+_Post originale: [The Book That Changed My Life](http://www.aaronsw.com/weblog/epiphany), dal blog Raw Thought, 15/05/2006. Traduzione di Andrea Zanni._
 
 L'estate di due anni fa ho letto un libro che ha completamente trasformato la
 mia visione del mondo. Dopo aver fatto delle ricerche su vari argomenti –

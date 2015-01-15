@@ -1,11 +1,6 @@
 #### Consigli per trovare un lavoro come il mio
 
-Intervento preparato per la conferenza informatica Tathva 2007 presso il NIT
-di Calcutta ([qui ulteriori dettagli](http://www.aaronsw.com/weblog/publicspeaking)). 
-Post originale:
-[How to get a job like mine](https://aaronsw.jottit.com/howtoget), dalla
-pagina di Aaron su [jottit.com](http://jottit.com), 27/09/2006.
-Traduzione di Marco Caresia.
+_Intervento preparato per la conferenza informatica Tathva 2007 presso il NIT di Calcutta ([qui ulteriori dettagli](http://www.aaronsw.com/weblog/publicspeaking)). Post originale: [How to get a job like mine](https://aaronsw.jottit.com/howtoget), dalla pagina di Aaron su [jottit.com](http://jottit.com), 27/09/2006. Traduzione di Marco Caresia._
 
 Lo scrittore statunitense Kurt Vonnegut era solito intitolare i suoi
 interventi pubblici “Come fare a trovare un lavoro come il mio” per poi

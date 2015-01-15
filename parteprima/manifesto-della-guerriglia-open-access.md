@@ -1,8 +1,6 @@
 #### Manifesto della guerriglia open access
 
-Testo originale: [Guerrilla open access
-manifesto](http://aubreymcfato.com/2013/01/14/guerrilla-open-access-manifesto-
-aaron-swartz/), luglio 2008. Traduzione di Andrea Zanni e altri.
+_Testo originale: [Guerrilla open access manifesto](http://aubreymcfato.com/2013/01/14/guerrilla-open-access-manifesto-aaron-swartz/), luglio 2008. Traduzione di Andrea Zanni e altri._
 
 L'informazione è potere. Ma come ogni tipo di potere, ci sono quelli che
 vogliono tenerselo per sé. L'intero patrimonio scientifico e culturale,

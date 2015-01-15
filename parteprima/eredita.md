@@ -1,8 +1,6 @@
 #### Eredità
 
-Post originale: [Legacy](http://www.aaronsw.com/weblog/legacy), dal blog
-[Raw Thought](http://www.aaronsw.com/weblog/), 01/06/2006.
-Traduzione di Bernardo Parrella.
+_Post originale: [Legacy](http://www.aaronsw.com/weblog/legacy), dal blog [Raw Thought](http://www.aaronsw.com/weblog/), 01/06/2006. Traduzione di Bernardo Parrella._
 
 
 Le persone ambiziose vogliono lasciare un'eredità ai posteri, ma di che tipo di

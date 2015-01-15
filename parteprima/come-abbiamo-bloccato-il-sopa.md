@@ -1,8 +1,6 @@
 #### Come abbiamo bloccato il SOPA
 
-[Intervento](http://www.democracynow.org/2013/1/14/freedom_to_connect_aaron_swartz_1986)
-alla conferenza F2C2012 (Freedom to Connect), 22/05/2012.
-Traduzione di Mauro Pili.
+_[Intervento](http://www.democracynow.org/2013/1/14/freedom_to_connect_aaron_swartz_1986) alla conferenza F2C2012 (Freedom to Connect), 22/05/2012. Traduzione di Mauro Pili._
 
 Per me, tutto è iniziato con una telefonata. Era settembre, non dell'anno
 scorso, ma quello prima, settembre 2010. Ho ricevuto una telefonata dal mio

@@ -1,8 +1,6 @@
 #### Aaron non era un hacker, ma un costruttore
 
-Dal blog di David Weinberger, 13/01/2013. Post originale:
-[AaronSwartz was not a hacker. He was a builder.](http://www.hyperorg.com/blogger/2013/01/13/aaron-swartz-was-not-a-hacker-he-was-a-builder/)
-Traduzione di Silvia Franchini.
+_Dal blog di David Weinberger, 13/01/2013. Post originale: [AaronSwartz was not a hacker. He was a builder.](http://www.hyperorg.com/blogger/2013/01/13/aaron-swartz-was-not-a-hacker-he-was-a-builder/). Traduzione di Silvia Franchini._
 
 Di certo Aaron era un hacker leggendario e prodigioso nel senso di qualcuno
 capace di costruire qualsiasi cosa partendo da qualsiasi cosa. Ma non è questo

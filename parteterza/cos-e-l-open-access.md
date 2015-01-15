@@ -1,8 +1,6 @@
-### Cos’è l’open access
+#### Cos’è l’open access
 
-Andrea Zanni, ripreso dal
-[suo blog](http://aubreymcfato.com/2013/01/14/che-cose-lopen-access/),
-aggiornamento del 06/01/2014.
+_Andrea Zanni, ripreso dal [suo blog](http://aubreymcfato.com/2013/01/14/che-cose-lopen-access/), aggiornamento del 06/01/2014._
 
 L’open access è un movimento che vuole dare accesso aperto alla conoscenza, e
 nello specifico alla letteratura scientifica. Sono tanti i nomi che si danno a

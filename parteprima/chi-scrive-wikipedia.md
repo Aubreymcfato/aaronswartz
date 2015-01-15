@@ -1,8 +1,6 @@
 #### Chi scrive Wikipedia?
 
-Post originale: [Who Writes
-Wikipedia?](http://www.aaronsw.com/weblog/whowriteswikipedia), dal blog Raw
-Thought, 04/09/2006. Traduzione di Elena Corradini.
+_Post originale: [Who Writes Wikipedia?](http://www.aaronsw.com/weblog/whowriteswikipedia), dal blog Raw Thought, 04/09/2006. Traduzione di Elena Corradini._
 
 Ho incontrato per la prima volta Jimbo Wales, il volto di Wikipedia, quando
 venne a parlare a Stanford. Wales ci raccontò la storia, la tecnologia e la

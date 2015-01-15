@@ -1,9 +1,6 @@
 #### L'esercito di Aaron
 
-Intervento di Carl Malamud al Memorial per Aaron Swartz tenuto all'Internet
-Archive di San Francisco, 24/01/2013. Testo originale: [Aaron's
-Army](https://public.resource.org/aaron/army/). Traduzione di Silvia
-Franchini.
+_Intervento di Carl Malamud al Memorial per Aaron Swartz tenuto all'Internet Archive di San Francisco, 24/01/2013. Testo originale: [Aaron's Army](https://public.resource.org/aaron/army/). Traduzione di Silvia Franchini._
 
 L'operazione di Aaron riguardo JSTOR non va considerata neppure per un attimo
 l'atto occasionale di un hacker solitario, una sorta di folle, impulsivo e

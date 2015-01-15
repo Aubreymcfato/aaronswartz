@@ -1,5 +1,3 @@
-* * * * *
-
 > Say yes to everything. I have a lot of trouble saying no, to a pathological
 > degree – whether to projects or to interviews or to friends. As a result, I
 > attempt a lot and even if most of it fails, I've still done something.
@@ -258,7 +256,3 @@ sociale – pratiche diffuse senza le quali la razza umana non avrebbe ancora
 imparato ad accendere un fuoco. [Carlo
 Gubitosa](mailto:carlo@gubi.it%20?subject=aronsw%20ebook), giornalista e
 attivista
-
-* * * * *
-
-

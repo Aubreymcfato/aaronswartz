@@ -1,7 +1,6 @@
 #### Dire addio all'imbarazzo
 
-Post originale: [Say Goodbye to Embarrassment](http://www.aaronsw.com/weblog/emotions), 
-dal blog Raw Thought, 08/01/2006. Traduzione di Silvia Franchini.
+_Post originale: [Say Goodbye to Embarrassment](http://www.aaronsw.com/weblog/emotions), dal blog Raw Thought, 08/01/2006. Traduzione di Silvia Franchini._
 
 Ho deciso di smettere di provare imbarazzo. Voglio dire addio a tutto quanto:
 la sensazione crescente del momento che si avvicina, rendersi conto che è

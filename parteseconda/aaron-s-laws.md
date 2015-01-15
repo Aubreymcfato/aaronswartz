@@ -1,8 +1,6 @@
 #### Aaron's Laws: legge e giustizia nell'era digitale
 
-Stralci dell['intervento di Lawrence
-Lessig](https://www.youtube.com/watch?v=9HAw1i4gOU4&feature=youtu.be) alla
-Harvard Law School, 19/02/2013. Traduzione di Francesco Pandini.
+_Stralci dell['intervento di Lawrence Lessig](https://www.youtube.com/watch?v=9HAw1i4gOU4&feature=youtu.be) alla Harvard Law School, 19/02/2013. Traduzione di Francesco Pandini._
 
 Questo mio intervento doveva rappresentare un passo avanti nel mio pluriennale
 impegno contro la corruzione, ma quando cinque settimane e quattro giorni fa

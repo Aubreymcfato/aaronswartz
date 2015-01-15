@@ -1,9 +1,6 @@
 #### Perché Aaron è morto
 
-Testo originale:
-[Why Aaron Died](http://tarensk.tumblr.com/post/42260548767/why-aaron-died),
-dal blog di Taren Stinebrickner-Kauffman, 04/02/2013.
-Traduzione di Eusebia Parrotto.
+_Testo originale: [Why Aaron Died](http://tarensk.tumblr.com/post/42260548767/why-aaron-died), dal blog di Taren Stinebrickner-Kauffman, 04/02/2013. Traduzione di Eusebia Parrotto._
 
 Qualche giorno fa mi sono svegliata e ho trovato Aaron lì con me. Era seduto
 vicino al letto, sfoggiando il suo sorriso più sfacciato, e mi teneva la mano.
