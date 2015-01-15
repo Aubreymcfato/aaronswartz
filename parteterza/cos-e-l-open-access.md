@@ -21,7 +21,7 @@ fanno le pulci alle metodologie. Ciò che passa rimane, si aggiunge al corpus
 scientifico, crea il trampolino da cui poi partono gli altri. Insomma, si
 costruiscono i giganti su cui ci arrampichiamo noi nani.
 
-Qual è il punto? Perché l’open access? Cosa non va?
+**Qual è il punto? Perché l’open access? Cosa non va?**
 
 Be’, il punto è noioso. Il punto è che il nostro modo attuale di pubblicare la
 ricerca ha molti problemi, soprattutto economici. Le riviste sono in mano a
@@ -43,7 +43,7 @@ riusciranno a lavorare e fare ricerca loro stessi. Il nano senza gigante non
 sa dove arrampicarsi e non vede nulla. Questa situazione va avanti da anni e
 tutti sono concordi nell’affermare che il problema esiste davvero.
 
-Cosa propone allora l’open access?
+**Cosa propone allora l’open access?**
 
 L’open access vuole essere la soluzione a questo problema, e propone una
 rivoluzione sostanziale con due strategie principali:
@@ -87,7 +87,7 @@ sociale), la questione è complessa, davvero c’è una letteratura sterminata, 
 fuori, su questo. Ci sono ottime ragioni per tentare di cambiare il sistema
 corrente. E ce la possiamo fare.
 
-Davvero? E perché?
+**Davvero? E perché?**
 
 Perché quello della letteratura scientifica è un settore particolare. Perché,
 riconoscendo che la scienza/conoscenza è di tutti, siamo d’accordo sui valori:
@@ -132,7 +132,7 @@ loro lavoro di coordinamento è importantissimo, ma non giustifica i loro
 enormi profitti (che arrivano al 40% di margini di guadagno). Senza i
 ricercatori sono meno che niente.
 
-Scusa, ma perché i ricercatori stanno al gioco?
+**Scusa, ma perché i ricercatori stanno al gioco?**
 
 Intanto perché è lo status quo, ci sono abituati, è così da tempo. Poi perché
 i ricercatori sanno poco e nulla di quanto paga la loro biblioteca per avere
@@ -157,7 +157,7 @@ or perish, pubblicare o morire. Il sistema attuale riesce così a far leva sui
 giovani ricercatori, quelli che hanno più bisogno di reputazione: anche chi
 vorrebbe pubblicare in open access a volte è costretto a scegliere.
 
-Non ci credo
+**Non ci credo**
 
 Lo so, non ci si crede. E non credete a me: fatevi un giro [qui, andate
 su](http://wiki.openarchives.it/index.php/Pagina_principale) Wikipedia

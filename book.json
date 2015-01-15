@@ -52,6 +52,12 @@
         }
     },
 
+    // CSS Styles
+    "styles": {
+        "website": "styles/styles.css",
+        "ebook": "styles/styles.css"
+    },
+
 
     // Options for PDF generation
     "pdf": {
