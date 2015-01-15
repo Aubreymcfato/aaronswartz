@@ -27,7 +27,7 @@ La prima cosa che ho fatto (e che probabilmente avete fatto anche tutti voi) è
 stata imparare il più possibile sui computer, su Internet e sulla cultura di
 Internet. Ho letto un sacco di libri, enormi quantità di pagine web e provato
 varie storie. Per prima cosa mi sono iscritto a diverse mailing list,
-impegnandomi a seguirne le discussioni fintanto che non mi sono sentito grado
+impegnandomi a seguirne le discussioni fintanto che non mi sono sentito in grado
 di intervenire e iniziare a parteciparvi. Poi ho studiato qualche sito web e
 provato a costruirne uno da solo. E alla fine ho imparato a sviluppare
 applicazioni web e mi sono messo a crearle. Avevo tredici anni.
@@ -113,8 +113,8 @@ Ho avuto alcuni docenti importanti e sicuramente ho imparato parecchio, ma non
 ho trovato un'atmosfera molto “intellettuale”, dato che la maggior parte degli
 altri ragazzi non sembrava prendere molto seriamente gli studi.
 
-Verso fine anno ricevetti però una email da uno scrittore, Paul Graham, per
-annunciarmi l'avvio di un nuovo progetto, Y Combinator. L'idea di fondo era
+Verso fine anno ricevetti però una email da uno scrittore, Paul Graham, che mi annunciava
+l'avvio di un nuovo progetto, Y Combinator. L'idea di fondo era
 quella di mettere insieme un gruppo di sviluppatori in gamba, portarli a
 Boston per un'estate e dare loro un po' di soldi e la documentazione
 necessaria per fondare una start-up. Bisognava lavorare duro per costruire
