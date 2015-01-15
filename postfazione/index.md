@@ -254,5 +254,5 @@ imporre le sue regole autoritarie a uomini e donne dallo spirito libero. E per
 continuare a inseguire questa insaziabile sete di conoscenza e di giustizia
 sociale – pratiche diffuse senza le quali la razza umana non avrebbe ancora
 imparato ad accendere un fuoco. [Carlo
-Gubitosa](mailto:carlo@gubi.it%20?subject=aronsw%20ebook), giornalista e
-attivista
+Gubitosa](mailto:carlo@gubi.it%20?subject=aronsw%20ebook)
+giornalista e attivista
