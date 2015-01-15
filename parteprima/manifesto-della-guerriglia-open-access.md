@@ -23,10 +23,10 @@ articoli scientifici alle università d'élite del Primo Mondo, ma non ai
 bambini del Sud del mondo? Tutto ciò è oltraggioso e inaccettabile.
 
 «Siamo d'accordo», dicono in molti, ma cosa possiamo fare? Sono le aziende
-«editoriali a detenere i diritti d'autore, a guadagnare somme enormi
-«facendo pagare l'accesso, ed è tutto perfettamente legale — non possiamo far
-«nulla per fermarli». Però è possibile intervenire, facendo qualcosa che è già
-«stato fatto: possiamo contrattaccare.
+editoriali a detenere i diritti d'autore, a guadagnare somme enormi
+facendo pagare l'accesso, ed è tutto perfettamente legale — non possiamo far
+nulla per fermarli». Però è possibile intervenire, facendo qualcosa che è già
+stato fatto: possiamo contrattaccare.
 
 Tutti voi che avete accesso a queste risorse, studenti, bibliotecari o
 scienziati, vantate un privilegio: potete nutrirvi al banchetto della
