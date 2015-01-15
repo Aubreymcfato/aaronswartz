@@ -116,7 +116,7 @@ del 12/02/2013
 * Aaron: A brief story on ideals and corruption
 (Crichton Lei, Kindle ebook, febbraio 2013)
 
-Congress Demands Justice Department Explain Aaron Swartz Prosecution 
+* Congress Demands Justice Department Explain Aaron Swartz Prosecution 
 (Kim Ketter, Wired, 29/01/2013)
 
 * [How Aaron Swartz paved way for Jack Andraka's revolutionary cancer test](http://www.vancouverobserver.com/world/how-aaron-swartz-paved-way-jack-andrakas-revolutionary-cancer-test) 
@@ -150,7 +150,7 @@ Congress Demands Justice Department Explain Aaron Swartz Prosecution
 (Lawrence Lessig, 12/01/2013)
 
 * [Hacking Politics: How Geeks, Progressives, the Tea Party, Gamers, Anarchists and Suits Teamed Up to Defeat SOPA and Save the Internet](http://www.orbooks.com/catalog/hacking-politics-2/)
-(Curato da David Moon, Patrick RUFFINI e David Segal, OR Books, 2013)
+(Curato da David Moon, Patrick Ruffini e David Segal, OR Books, 2013)
 
 * [A programmable web, an unfinished work](http://www.morganclaypool.com/doi/pdf/10.2200/S00481ED1V01Y201302WBE005)
 (Morgan Claypool Publishers, 2013)
@@ -168,7 +168,6 @@ Congress Demands Justice Department Explain Aaron Swartz Prosecution
 (New Exhibitions Museum, 2012)
 
 * [\#PDFTribute](http://pdftribute.net/)
-
 
 * [Raccolta di video su YouTube di Lawrence Lessig](https://www.youtube.com/results?search_query=lessig+swartz&oq=lessig+swartz&gs_l=youtube.3..0.7007.9895.0.10216.13.8.0.5.5.0.146.704.3j5.8.0...0.0...1ac.1.BpgS0uBeeGQ)
 
@@ -223,7 +222,6 @@ cura di [Valigia Blu](http://www.valigiablu.it/)
 * [Open access, la svolta è già qui](http://www.lastampa.it/2013/03/14/tecnologia/open-access-la-svolta-e-gia-qui-yEqqagmOBaoErlq22F7G9N/pagina.html)
 (Francesco Vaccarino, LaStampa.it, 13/03/2013)
 
-
 * [Tutti i modi per rendere aperti e riusabili i dati](http://www.slideshare.net/LucaCorsato/tutti-i-modi-per-rendere-opendata)
 (Luca Corsato, 20/02/2013)
 
@@ -243,12 +241,11 @@ con [annotazioni aggiuntive](http://aubreymcfato.com/2013/01/17/fact-checking-e-
 * [Dichiarazione di Berlino](http://it.wikisource.org/wiki/Dichiarazione_di_Berlino)
 (Max Planck Society, 2003)
 
-[Bethesda Statement on Open Access](http://legacy.earlham.edu/~peters/fos/bethesda.htm)
+* [Bethesda Statement on Open Access](http://legacy.earlham.edu/~peters/fos/bethesda.htm)
 (2003) 
 
 * [Budapest Open Acces Initiative](http://www.budapestopenaccessinitiative.org/read)
 (2002)
-
 
 * [Perché il pubblico dominio è importante](http://www.stampalternativa.it/liberacultura/books/bollier.pdf)
 (pdf, David Bollier, 2002)
@@ -259,7 +256,7 @@ con [annotazioni aggiuntive](http://aubreymcfato.com/2013/01/17/fact-checking-e-
 * [Open Access overview](http://legacy.earlham.edu/~peters/fos/overview.htm)
 (Peter Suber, in inglese)
 
-[The Cost of Knowledge](http://thecostofknowledge.com/) 
+* [The Cost of Knowledge](http://thecostofknowledge.com/) 
 (sito e [dichiarazione](http://gowers.files.wordpress.com/2012/02/elsevierstatementfinal.pdf), in inglese)
 
 *Libri:*
