@@ -107,8 +107,7 @@ insegnato, sollecitato, guidato. È stato lui a farmi arrivare dove sono ora.
 […]
 
 La disobbedienza civile vanta una tradizione significativa. David Byrne ha
-[scritto un pezzo](http://journal.davidbyrne.com/2013/02/020513-civil-
-disobedience.html) su Aaron e la disobbedienza civile, in cui riflette sugli
+[scritto un pezzo](http://copsrcorrupt.com/2013/02/15/civil-disobedience-by-david-byrne/) su Aaron e la disobbedienza civile, in cui riflette sugli
 esempi di disobbedienza civile della storia. È soprattutto in questo contesto
 che si pensa a lui come il maggior protagonista della disobbedienza civile nel
 XX secolo.
