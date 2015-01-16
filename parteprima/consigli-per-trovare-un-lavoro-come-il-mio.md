@@ -287,7 +287,7 @@ quanto definiamo intelligenza si riduca in fondo alla curiosità.
 patologico, sia che si tratti di nuovi progetti che di interviste che di
 amici. Come risultato, sono stato coinvolto in tante storie, e anche se la
 maggior parte sono fallite, ho comunque prodotto qualcosa di buono. 
-3.Presumere sempre che anche gli altri non abbiano idea di quanto stanno
+3.  Presumere sempre che anche gli altri non abbiano idea di quanto stanno
 facendo. Molti rifiutano di provare qualcosa di nuovo perché sentono di non
 saperne abbastanza, o presumono che altri abbiano già provato tutto quello che
 loro riescono a proporre. Be', sono in pochi a sapere davvero come fare le
