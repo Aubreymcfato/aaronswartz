@@ -16,7 +16,7 @@ Sito ufficiale e download: [http://aaronswartztributo.tumblr.com/](http://aarons
 
 ### Per smanettoni
 
-Usiamo [GitBook](https://github.com/GitbookIO/gitbook) per generare automaticamente l'ebook e il [sito statico](aubreymcfato.github.io/aaronswartz/).
+Usiamo [GitBook](https://github.com/GitbookIO/gitbook) per generare automaticamente l'ebook e il [sito statico](http://aubreymcfato.github.io/aaronswartz/).
 
 Per generare l'ebook (nota: gitbook richiede [ebook-convert](http://manual.calibre-ebook.com/cli/ebook-convert.html)) potete usare i seguenti comandi direttamente dal branch `master`:
 
