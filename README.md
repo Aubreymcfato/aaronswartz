@@ -8,9 +8,9 @@ Sito ufficiale: [http://aaronswartztributo.tumblr.com/](http://aaronswartztribut
 
 Potete navigare la versione web dall'indirizzo [http://aubreymcfato.github.io/aaronswartz/](http://aubreymcfato.github.io/aaronswartz/), oppure scaricare da qui le seguenti versioni:
 
-* [epub](https://raw.github.com/Aubreymcfato/aaronswartz/book.epub)
-* [mobi](https://raw.github.com/Aubreymcfato/aaronswartz/book.mobi)
-* [pdf](https://raw.github.com/Aubreymcfato/aaronswartz/book.pdf)
+* [epub](https://raw.github.com/Aubreymcfato/aaronswartz/master/book.epub)
+* [mobi](https://raw.github.com/Aubreymcfato/aaronswartz/master/book.mobi)
+* [pdf](https://raw.github.com/Aubreymcfato/aaronswartz/master/book.pdf)
 
 ### Come contribuire
 
