@@ -1,8 +1,10 @@
 .DS_Store
 node_modules
+npm-debug.log
 
 # Avoid gitbook build in default directory
 _book
+gh-pages
 
 # eBook build output
 *.epub

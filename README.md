@@ -1,28 +1,53 @@
-AARON SWARTZ (1986 – 2013)
+Ebook di tributo ad Aaron Swartz
 --------------------------
 
-una vita per la cultura libera e la giustizia sociale
+Spazio di collaborazione e aggiornamento per l'ebook di tributo ad Aaron Swartz: "**AARON SWARTZ (1986 – 2013) una vita per la cultura libera e la giustizia sociale**". 
+Sito ufficiale e download: [http://aaronswartztributo.tumblr.com/](http://aaronswartztributo.tumblr.com/)
 
-[http://aaronswartztributo.tumblr.com/](http://aaronswartztributo.tumblr.com/)
+## Come contribuire
 
-progetto e coordinamento: 
+### Per rilettori
+
+* Fate login su GitHub (se non avete un account, registratevi in alto a destra)
+* Tornate sul progetto e cliccate [qui](https://github.com/Aubreymcfato/aaronswartz/blob/master/SUMMARY.md).
+* Siete all'interno dell'Indice del libro. Scegliete una pagina da modificare e correggere, fatelo cliccando sull'icona della matita, poi salvate. 
+* Yuppii! 
+* Continuate con un'altra pagina.
+
+### Per smanettoni
+
+Usiamo [GitBook](https://github.com/GitbookIO/gitbook) per generare automaticamente l'ebook e il [sito statico](aubreymcfato.github.io/aaronswartz/).
+
+Per generare l'ebook (nota: gitbook richiede [ebook-convert](http://manual.calibre-ebook.com/cli/ebook-convert.html)) potete usare i seguenti comandi direttamente dal branch `master`:
+
+* **epub** con il comando `gitbook epub`
+* **mobi** con il comando `gitbook mobi`
+* **pdf** con il comando `gitbook pdf`
+
+Per generare il sito navigabile potete usare il comando `gitbook build . ./gh-pages`. In questo modo verrà generato nella sottocartella `gh-pages` e sarà navigabile. Per aggiornare il branch `gh-pages` del proprio repository e vedere al volo le meraviglie dell'aggiornamento, usate il comando `git subtree push --prefix gh-pages origin gh-pages`.
+
+
+## Crediti
+
+Progetto e coordinamento: 
 [bernardo parrella](mailto:bernardo.parrella@mail.com?subject=aaronsw%20ebook) 
 e [andrea zanni](mailto:zanni.andrea84@gmail.com?subject=aaronsw%20ebook) 
 
 
-copertina:
+Copertina:
 eleonora oscari e alessandra costi; 
 
 
-foto:
+Foto:
 [sage ross](https://commons.wikimedia.org/wiki/File:Aaron_Swartz_2_at_Boston_Wikipedia_Meetup,_2009-08-18_.jpg) (cc by-sa)
 
 
-traduzioni: marco caresia, cristian consonni, elena corradini,
+Traduzioni: marco caresia, cristian consonni, elena corradini,
 silvia franchini, francesco pandini, bernardo parrella, mauro pili, eusebia
 parrotto, valentina tosi, andrea zanni 
 
+## Licenza
 
 Ebook rilasciato con licenza [creative
 commons by-nc-sa 3.0](http://creativecommons.org/licenses/by-nc-
-sa/3.0/it/deed.it) versione epub 1.0, 11 febbraio 2014
+sa/3.0/it/deed.it)

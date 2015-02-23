@@ -1,6 +1,6 @@
 # Indice
 
-* [AARON SWARTZ (1986 – 2013)](README.md)
+* [AARON SWARTZ (1986 – 2013)](intro.md)
 * [PREFAZIONE](prefazione/index.md)
 * [UN ANNO DOPO](unannodopo/index.md)
 * [PARTE PRIMA](parteprima/index.md)
