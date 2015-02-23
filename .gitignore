@@ -4,8 +4,3 @@ npm-debug.log
 
 # Avoid gitbook build in default directory
 _book
-
-# eBook build output
-*.epub
-*.mobi
-*.pdf

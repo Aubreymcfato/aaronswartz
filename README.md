@@ -2,11 +2,19 @@ Ebook di tributo ad Aaron Swartz
 --------------------------
 
 Spazio di collaborazione e aggiornamento per l'ebook di tributo ad Aaron Swartz: "**AARON SWARTZ (1986 – 2013) una vita per la cultura libera e la giustizia sociale**". 
-Sito ufficiale e download: [http://aaronswartztributo.tumblr.com/](http://aaronswartztributo.tumblr.com/)
+Sito ufficiale: [http://aaronswartztributo.tumblr.com/](http://aaronswartztributo.tumblr.com/)
 
-## Come contribuire
+### Download
 
-### Per rilettori
+Potete navigare la versione web dall'indirizzo [http://aubreymcfato.github.io/aaronswartz/](http://aubreymcfato.github.io/aaronswartz/), oppure scaricare da qui le seguenti versioni:
+
+* [epub](https://raw.github.com/Aubreymcfato/aaronswartz/book.epub)
+* [mobi](https://raw.github.com/Aubreymcfato/aaronswartz/book.mobi)
+* [pdf](https://raw.github.com/Aubreymcfato/aaronswartz/book.pdf)
+
+### Come contribuire
+
+#### Per rilettori
 
 * Fate login su GitHub (se non avete un account, registratevi in alto a destra)
 * Tornate sul progetto e cliccate [qui](https://github.com/Aubreymcfato/aaronswartz/blob/master/SUMMARY.md).
@@ -14,7 +22,7 @@ Sito ufficiale e download: [http://aaronswartztributo.tumblr.com/](http://aarons
 * Yuppii! 
 * Continuate con un'altra pagina.
 
-### Per smanettoni
+#### Per smanettoni
 
 Usiamo [GitBook](https://github.com/GitbookIO/gitbook) per generare automaticamente l'ebook e il [sito statico](http://aubreymcfato.github.io/aaronswartz/).
 
