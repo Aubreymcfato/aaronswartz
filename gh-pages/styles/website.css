@@ -1,0 +1,12 @@
+.book-body .page-wrapper blockquote + p {
+	display: inline-block;
+}
+
+.book-body .page-wrapper p img {
+	float: left;
+	margin-right: 20px;
+}
+
+hr {
+	clear: both
+}
