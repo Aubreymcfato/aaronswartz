@@ -1,5 +1,5 @@
 {
-    "gitbook": "2.0.0-alpha.8",
+    "gitbook": "2.0.0-alpha.9",
     "language":"it",
     "title": "AARON SWARTZ (1986 – 2013) una vita per la cultura libera e la giustizia sociale",
     "description": "Ebook di tributo ad Aaron Swartz. Curato da bernardo parrella e andrea zanni, l’ebook include la traduzione di alcuni suoi post, riflessioni e interventi, più diversi articoli e scritti di amici e attivisti, oltre a materiali su open access/free culture e un’ampia sezione di link e risorse di approfondimento",
@@ -17,6 +17,12 @@
         "host": "http://aaronswartztributo.tumblr.com/"
     },
     "links": {
+        "sidebar": {
+            "ePub": "https://raw.github.com/Aubreymcfato/aaronswartz/master/book.epub",
+            "mobi": "https://raw.github.com/Aubreymcfato/aaronswartz/master/book.mobi",
+            "pdf": "https://raw.github.com/Aubreymcfato/aaronswartz/master/book.pdf",
+            "Contribuisci": "https://github.com/Aubreymcfato/aaronswartz/"
+        },
         "sharing": {
             "google": null,
             "facebook": null,
