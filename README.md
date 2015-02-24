@@ -54,6 +54,8 @@ Traduzioni: marco caresia, cristian consonni, elena corradini,
 silvia franchini, francesco pandini, bernardo parrella, mauro pili, eusebia
 parrotto, valentina tosi, andrea zanni 
 
+Revisione versione 2.0: giulio bonanome, cristian consonni, eusebia parrotto
+
 ## Licenza
 
 Ebook rilasciato con licenza [creative

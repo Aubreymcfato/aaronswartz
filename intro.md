@@ -25,4 +25,6 @@ parrotto, valentina tosi, andrea zanni
 
 Ebook rilasciato con licenza [creative
 commons by-nc-sa 3.0](http://creativecommons.org/licenses/by-nc-
-sa/3.0/it/deed.it) versione epub 1.0, 11 febbraio 2014
+sa/3.0/it/deed.it)
+
+Versione 2.0, 22 febbraio 2015 (revisione di giulio bonanome, cristian consonni, eusebia parrotto)
