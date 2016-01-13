@@ -109,7 +109,7 @@ grossa frustrazione, anche in quegli episodi, come la proteste contro il
 SOPA/PIPA, in cui i geek hanno dimostrato di potersi imporre.
 
 Così, eccoci qui oggi, con il mondo orfano del bambino prodigio capace
-dimettere in mutande chiunque lo conoscesse. È diventato un giocattolo nello
+di mettere in mutande chiunque lo conoscesse. È diventato un giocattolo nello
 spettacolo inscenato dal governo per dimostrare di essere potente. Lo hanno
 perseguitato e intimidito, hanno giocato sulle sue debolezze per spezzarlo. E
 ce l'hanno fatta. Tutto in nome della giustizia. Tutto ciò senza che fosse
