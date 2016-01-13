@@ -163,4 +163,4 @@ Lo so, non ci si crede. E non credete a me: fatevi un giro [qui, andate
 su](http://wiki.openarchives.it/index.php/Pagina_principale) Wikipedia
 [(quella inglese,](http://en.wikipedia.org/wiki/Open_access) o [quella in
 italiano).](https://it.wikipedia.org/wiki/Open_access) E nella sezione finale
-dell’ebook, trovate un utile elenco di risorse e libri di in tema.
+dell’ebook, trovate un utile elenco di risorse e libri in tema.
