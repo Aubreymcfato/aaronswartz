@@ -46,7 +46,7 @@ più sporadici perché degli alti e bassi mi piacevano i momenti alti, ma facevo
 veramente fatica con i bassi. Il suo arresto però mi aveva davvero
 preoccupata. Decidemmo di non parlare mai del caso in sé, ma nel bel mezzo dei
 nostri scambi d'idee scherzavamo, per sdrammatizzare la situazione, a
-proposito del fatto che in carcere finalmente avrebbe prendere la laurea. Gli
+proposito del fatto che in carcere finalmente avrebbe preso la laurea. Gli
 promisi che avrei curato un piano formativo per lui, mettendo insieme le
 migliori borse di studio, e che gli avrei mandato un articolo stampato da
 JSTOR ogni giorno. Sapevo che la cosa gli pesava, ma sapevo anche che era un
@@ -109,7 +109,7 @@ grossa frustrazione, anche in quegli episodi, come la proteste contro il
 SOPA/PIPA, in cui i geek hanno dimostrato di potersi imporre.
 
 Così, eccoci qui oggi, con il mondo orfano del bambino prodigio capace
-dimettere in mutande chiunque lo conoscesse. È diventato un giocattolo nello
+di mettere in mutande chiunque lo conoscesse. È diventato un giocattolo nello
 spettacolo inscenato dal governo per dimostrare di essere potente. Lo hanno
 perseguitato e intimidito, hanno giocato sulle sue debolezze per spezzarlo. E
 ce l'hanno fatta. Tutto in nome della giustizia. Tutto ciò senza che fosse
