@@ -96,4 +96,4 @@ tempo, sono finalmente pronto a parlare di quel che è successo con un certo
 distacco, e spero ora di poter iniziare a occuparmi seriamente del mio libro.
 
 È stato un cambiamento cruciale, ma non voglio rinunciarvi per tutto l'oro del
-È mondo.
+mondo.
