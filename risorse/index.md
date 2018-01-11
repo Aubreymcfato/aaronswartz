@@ -177,6 +177,8 @@ del 12/02/2013
 ** [\#aaronsw](https://twitter.com/search?q=%23AaronSw&src=hash)
 ** [DemandProgress](http://www.demandprogress.org/)
 
+* Articolo di Philip Di Salvo sulla [copertura mediatica della morte di Aaron Swartz](http://ijoc.org/index.php/ijoc/article/view/5764) 
+
 #### In italiano:
 
 * [Information is power](http://www.radio3.rai.it/dl/radio3/programmi/puntata/ContentItem-8502eb4a-e73b-4db4-a143-9e9d2e089e80.html)
