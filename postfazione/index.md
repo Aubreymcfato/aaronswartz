@@ -30,8 +30,8 @@ Il moderno concetto di elaboratore elettronico, ad esempio, è nato da una di
 queste menti brillanti e perseguitate, [quella di Alan Mathison
 Turing](https://it.wikipedia.org/wiki/Alan_Turing), che ci ha donato un'idea
 di “computer programmabile” che oggi ci sembra banale quanto l'accensione di
-un fuoco. Un'idea però fatta pagare a caro prezzo dall'olimpo perbenista di
-un'Inghilterra ancora impregnata della mentalità vittoriana, un olimpo
+un fuoco. Un'idea però fatta pagare a caro prezzo dall'Olimpo perbenista di
+un'Inghilterra ancora impregnata della mentalità vittoriana, un Olimpo
 compatto nel condannare Turing ad atroci sofferenze per la sua omosessualità.
 
 Gli dei del mondo bigotto ed eterosessuale che dominava la società di quel
@@ -43,16 +43,16 @@ castrazione chimica tramite somministrazione di ormoni femminili.
 
 Negli anni '60 gli dei sono stati più benevoli, e l'ambiente in cui si è
 sviluppata la cultura hacker, i laboratori del MIT di Boston, era governato da
-un olimpo che aveva imparato a tollerare il
+un Olimpo che aveva imparato a tollerare il
 [lockpicking](https://en.wikipedia.org/wiki/Lock_picking), la tecnica di
 forzare le serrature dei laboratori informatici (senza però danneggiarle),
 onde utilizzare liberamente le attrezzature ivi ospitate.
 
-La pratica dell'accesso a stanze, circuiti e tecnologie di cui l'olimpo di
+La pratica dell'accesso a stanze, circuiti e tecnologie di cui l'Olimpo di
 allora vietava l'utilizzo libero, fu sviluppata da studenti curiosi del
 Laboratorio di Intelligenza Artificiale, che volevano “mettere le mani” su
 calcolatori ancora riservati ad una stretta casta di tecnosacerdoti. I
-prometeo delle serrature non furono mai denunciati o espulsi per effrazione o
+Prometeo delle serrature non furono mai denunciati o espulsi per effrazione o
 accesso non autorizzato ai laboratori, perché qualcuno riuscì a intuire il
 potenziale rivoluzionario (oltre che economico) di quanto stava per nascere in
 quelle notti insonni passate a domare bestioni elettronici e computer
@@ -76,9 +76,9 @@ divenuto lo slogan di varie generazioni di cyber-attivisti. Dopo l'ondata
 creativa degli anni '60 e la diffusione delle tecnologie informatiche negli
 anni '70 e '80 con il “personal computer” come icona tecnologica di
 liberazione ed emancipazione individuale, le cose peggiorarono a partire dagli
-anni '90, quando l'ira degli dei che popolavano l'olimpo delle aziende
+anni '90, quando l'ira degli dei che popolavano l'Olimpo delle aziende
 telefoniche e delle software house colpì in maniera brutale e ingiustificata
-altri curiosi prometeo, quelli che avevano aperto il loro computer al mondo
+altri curiosi Prometeo, quelli che avevano aperto il loro computer al mondo
 attaccandoci un modem.
 
 Due tra le più grandi operazioni di polizia informatica nella storia
@@ -94,7 +94,7 @@ salatissime bollette) per farlo funzionare di notte in automatico con chiamate
 notturne interurbane (e a volte internazionali), che permettevano di scambiare
 messaggi e documenti altrimenti inaccessibili.
 
-I prometeo delle cosiddette “Reti di telematica sociale di base” degli anni
+I Prometeo delle cosiddette “Reti di telematica sociale di base” degli anni
 '90, erano i tecnici solitari e appassionati che animavano le prime,
 rudimentali bacheche di messaggistica elettronica. Ma la repressione
 poliziesca stroncò nella sua piena fioritura la stagione dei [Bulletin Board
@@ -107,7 +107,7 @@ preceduto](https://it.wikipedia.org/wiki/European_Counter_Network) l'avvento
 dell'Internet vera e propria, nata in università e poi diffusa alla grande
 dalle grandi telco nazionali.
 
-L'olimpo che guardava il mondo con le lenti deformanti dell'ignoranza vedeva
+L'Olimpo che guardava il mondo con le lenti deformanti dell'ignoranza vedeva
 in ogni hacker un criminale informatico, senza nemmeno immaginare che nel
 cosiddetto “underground digitale” si stavano tracciando i confini della “nuova
 frontiera elettronica”. Una frontiera che ha ridisegnato i suoi confini mentre
@@ -118,7 +118,7 @@ pubblica planetaria, e i tecnomercanti che vorrebbero stabilire le regole del
 gioco guardando a Internet come al più grande mercato globale.
 
 Ai giorni nostri, i fulmini scagliati contro chi prova a mettere le tecnologie
-al servizio dell'umanità arrivano da quell'olimpo dove le divinità che
+al servizio dell'umanità arrivano da quell'Olimpo dove le divinità che
 governano il copyright e basano il loro potere sul fumoso concetto di
 “proprietà intellettuale” sono sempre pronte a colpire chi condivide su
 internet il fuoco della conoscenza e dell'arte con lo stesso spirito delle
@@ -128,14 +128,14 @@ L'accanimento giudiziario contro le reti di file sharing, la criminalizzazione
 della condivisione gratuita “tra pari” di opere dell'ingegno e la modifica
 delle norme sul diritto d'autore in senso sempre più restrittivo e padronale,
 sono solo alcuni di questi fulmini della storia recente. Ai quali vanno
-aggiunti quelli scagliati dall'olimpo della struttura militare più potente del
-pianeta, scatenatasi contro i prometeo che ne hanno carpito i segreti –
+aggiunti quelli scagliati dall'Olimpo della struttura militare più potente del
+pianeta, scatenatasi contro i Prometeo che ne hanno carpito i segreti –
 diffondendoli [poi al mondo intero grazie a
 WikiLeaks](https://it.wikipedia.org/wiki/WikiLeaks) per denunciare crimini di
 guerra e torture contro ogni paternalistico tentativo di affermare che il
 popolo non può sapere tutto, e ci sono segreti da riservare soltanto agli dei.
 
-E si arriva ai giorni nostri, con il prometeo del [Datagate,
+E si arriva ai giorni nostri, con il Prometeo del [Datagate,
 quell'Edward](https://it.wikipedia.org/wiki/Datagate) Snowden che ha risolto
 nel modo più giusto, ma anche più difficile, il conflitto tra la propria
 coscienza e il potere di cibersorveglianza planetaria delle agenzie
@@ -146,7 +146,7 @@ unico, inderogabile imperativo morale: «Il mondo deve sapere». Una voce che
 nemmeno le prospettive dell'esilio e della persecuzione giudiziaria sono
 riuscite a zittire.
 
-Le lotte dei prometeo dell'informatica contro gli dei che volevano ingabbiare
+Le lotte dei Prometeo dell'informatica contro gli dei che volevano ingabbiare
 la tecnologia ci portano alla lotta personale di Aaron, fatta di lotte civili
 contro leggi liberticide come il
 [SOPA/PIPA](http://www.washingtonpost.com/blogs/the-switch/wp/2013/08/05/sopa-
@@ -182,12 +182,12 @@ pur non essendo sempre legittimo.
 Ed è così che nel 2011 per Aaron che libera informazioni dalla rete del MIT
 non c'è la stessa benevolenza usata da quella istituzione accademica mezzo
 secolo prima nei confronti di chi scassinava serrature di laboratori
-informatici off-limits. Gli dei dell'olimpo universitario sanno essere anche
+informatici off-limits. Gli dei dell'Olimpo universitario sanno essere anche
 capricciosi e vendicativi quando non sono benevoli. Arrivano l'arresto, le
 indagini dell'FBI, la persecuzione giudiziaria, le accuse di crimini
 informatici, il rischio di una condanna fino a 35 anni di carcere. Ancora una
-volta gli dei dell'olimpo accademico e quelli che hanno fatto fortuna mettendo
-una tassa sulla conoscenza si sono severamente accaniti contro il prometeo di
+volta gli dei dell'Olimpo accademico e quelli che hanno fatto fortuna mettendo
+una tassa sulla conoscenza si sono severamente accaniti contro il Prometeo di
 turno, colpevole di aver messo in discussione la loro autorità. Una punizione
 spietata che ci riporta alla domanda iniziale: che cosa può spingere una mente
 viva e brillante a rifiutare la vita?
@@ -248,8 +248,8 @@ presto.
 In un altro periodo storico e in un'altra cultura, Aaron Swartz sarebbe stato
 celebrato come un benefattore, e non perseguitato come un criminale. Che la
 sua memoria serva a noi tutti per non smettere mai di domandarci dove sono
-oggi i prometeo che cercano di liberare la conoscenza e le tecnologie sfidando
-le persecuzioni dell'olimpo, ovvero le condanne del potere che cerca di
+oggi i Prometeo che cercano di liberare la conoscenza e le tecnologie sfidando
+le persecuzioni dell'Olimpo, ovvero le condanne del potere che cerca di
 imporre le sue regole autoritarie a uomini e donne dallo spirito libero. E per
 continuare a inseguire questa insaziabile sete di conoscenza e di giustizia
 sociale – pratiche diffuse senza le quali la razza umana non avrebbe ancora
